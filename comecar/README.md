@@ -14,4 +14,5 @@ Esta documentação é para quem configura e acompanha a plataforma.
 * [Colaboradores digitais](/colaboradores)
 * [Tarefas](/trabalho/tarefas)
 * [Conectores](/trabalho/conectores)
+* [Artefatos](/trabalho/artefatos)
 * [Acompanhar o trabalho](/trabalho/acompanhar)

@@ -9,6 +9,10 @@
   * [Fluxo](tarefas/fluxo.md)
   * [Agendamento](tarefas/agendamento.md)
 
+## Artefatos
+
+* [Artefatos do projeto](artefatos.md)
+
 ## Conectores
 
 * [Conectores](conectores.md)

@@ -56,6 +56,12 @@ Em branco, Dashboard, Relatório executivo, Resumo em texto, Apresentação em s
 
 O nó **Artefato** abre o **Studio de Artefatos**, com cinco etapas: Definição, Dados e ações, Construção, Validação e Publicação. Na definição, a tela pede o nome, o objetivo do artefato e o design system. O padrão é o design system do projeto.
 
+A lista do projeto fica em **Orquestração e Execução**.
+
+{% content-ref url="../artefatos.md" %}
+[Artefatos do projeto](../artefatos.md)
+{% endcontent-ref %}
+
 ## Revisão humana
 
 Quando o fluxo precisa parar para uma pessoa, a configuração se chama **Configurar revisão humana**. As etapas são:

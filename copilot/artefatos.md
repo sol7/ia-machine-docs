@@ -9,6 +9,8 @@ Um artefato aberto pelo chat volta ao cartão da conversa em que foi criado. Se 
 
 ## Artefatos do projeto
 
-A lista **Artefatos** da operação é outra tela. Ela organiza dashboards, relatórios, documentos e insights do projeto. Dá para buscar, ver quantos artefatos e colaboradores estão ligados, e usar **Criar artefato** ou **Enviar arquivo**. Um item ainda não publicado aparece como **Não publicado**.
+A lista **Artefatos** da operação fica em **Orquestração e Execução**. Ela não é a caixa pessoal do Copilot.
 
-Essa lista da operação não é a caixa pessoal do Copilot. Quem produz um arquivo no chat encontra o resultado em **Meus artefatos**. Quem organiza o acervo do projeto usa **Artefatos** em Orquestração e Execução.
+{% content-ref url="/trabalho/artefatos" %}
+[Artefatos do projeto](/trabalho/artefatos)
+{% endcontent-ref %}
