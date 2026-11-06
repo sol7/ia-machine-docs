@@ -1,30 +1,10 @@
 # Acompanhar o trabalho
 
-## Torre de Controle
+O acompanhamento da operação se divide em quatro telas.
 
-A Torre de Controle é a visão geral da operação, inclusive das execuções do dia.
+* [Torre de Controle](acompanhar/torre-de-controle.md) reúne a visão do dia.
+* [Atividades](acompanhar/atividades.md) mostra o trabalho já realizado pelos colaboradores digitais e pelo Copilot.
+* [Execuções](acompanhar/execucoes.md) mostra o que está por vir, o que está rodando e o que terminou.
+* [Interações humanas](acompanhar/interacoes-humanas.md) guarda o que parou à espera de uma pessoa.
 
-## Atividades
-
-Atividades mostra o trabalho realizado pelos colaboradores digitais e pelo Copilot.
-
-## Execuções
-
-Execuções mostra a atividade do dia: o que está por vir, o que acabou de rodar e o que está em andamento. O status de uma execução usa estes nomes na plataforma:
-
-| Status | O que significa |
-| --- | --- |
-| Sucesso | A execução terminou |
-| Falhou | A execução terminou com falha |
-| Executando | A execução está em andamento |
-| Aguardando | A execução espera uma condição ou uma resposta |
-| Cancelado | A execução foi cancelada |
-| Interrompida pelo revisor | Um revisor interrompeu a execução |
-
-## Interações humanas
-
-Quando uma execução para para esperar uma pessoa, a resposta fica em **Interações humanas**. Responder ali faz o fluxo seguir.
-
-## Artefatos e DataTables
-
-Artefatos guarda os arquivos produzidos no chat e na operação. DataTables guarda as tabelas de dados usadas no trabalho.
+Artefatos do projeto, DataTables e a auditoria ficam nas páginas de [administração](admin/datatables.md).
