@@ -2,11 +2,69 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: IAMachine
   structure:
-    - type: space
-      key: space-ia-machine
-      title: IAMachine
-      path: ia-machine
+    - type: section
+      key: section-comecar
+      title: Começar
+      path: comecar
       default: true
-      content:
-        directory: ./
-        language: pt-br
+      children:
+        - type: space
+          key: space-ia-machine
+          title: Começar
+          path: paginas-comecar
+          default: true
+          content:
+            directory: ./comecar
+            language: pt-br
+    - type: section
+      key: section-copilot
+      title: Copilot
+      path: copilot
+      children:
+        - type: space
+          key: space-copilot
+          title: Copilot
+          path: paginas-copilot
+          default: true
+          content:
+            directory: ./copilot
+            language: pt-br
+    - type: section
+      key: section-colaboradores
+      title: Força de trabalho
+      path: colaboradores
+      children:
+        - type: space
+          key: space-colaboradores
+          title: Força de trabalho
+          path: paginas-colaboradores
+          default: true
+          content:
+            directory: ./colaboradores
+            language: pt-br
+    - type: section
+      key: section-trabalho
+      title: Trabalho
+      path: trabalho
+      children:
+        - type: space
+          key: space-trabalho
+          title: Trabalho
+          path: paginas-trabalho
+          default: true
+          content:
+            directory: ./trabalho
+            language: pt-br
+    - type: section
+      key: section-admin
+      title: Administração
+      path: admin
+      children:
+        - type: space
+          key: space-admin
+          title: Administração
+          path: paginas-admin
+          default: true
+          content:
+            directory: ./admin
+            language: pt-br

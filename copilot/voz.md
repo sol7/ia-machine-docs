@@ -28,4 +28,4 @@ Usar uma voz do catálogo no lugar de uma voz clonada apaga a clonada e revoga a
 
 Para apagar a voz clonada sem escolher outra, use **Perfil › Meu Copilot**.
 
-A voz de um colaborador digital da operação é outra configuração, feita no cadastro desse colaborador. Ela não substitui a voz do seu Copilot. Veja [Criar e editar um colaborador digital](../colaboradores/criar-e-editar.md).
+A voz de um colaborador digital da operação é outra configuração, feita no cadastro desse colaborador. Ela não substitui a voz do seu Copilot. Veja [Criar e editar um colaborador digital](/colaboradores/criar-e-editar).

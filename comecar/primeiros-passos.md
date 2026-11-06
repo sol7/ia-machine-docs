@@ -1,6 +1,6 @@
 # Primeiros passos
 
-Entre com o seu usuário e escolha o projeto no menu lateral. Várias telas, como a de conectores, só carregam depois que um projeto está selecionado. No primeiro acesso a um projeto, a plataforma pede para [criar o seu Copilot](copilot/primeiro-acesso.md) antes de liberar o uso.
+Entre com o seu usuário e escolha o projeto no menu lateral. Várias telas, como a de conectores, só carregam depois que um projeto está selecionado. No primeiro acesso a um projeto, a plataforma pede para [criar o seu Copilot](/copilot/primeiro-acesso) antes de liberar o uso.
 
 ## O que o menu mostra
 

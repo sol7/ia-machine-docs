@@ -10,4 +10,4 @@ Dá para ver a lista ou a agenda, buscar pelo nome e filtrar por status, colabor
 * [Fluxo](tarefas/fluxo.md)
 * [Agendamento](tarefas/agendamento.md)
 
-As tarefas que o seu Copilot executa para você, no seu horário, ficam em [Tarefas agendadas](copilot/tarefas-agendadas.md). Não é a mesma lista.
+As tarefas que o seu Copilot executa para você, no seu horário, ficam em [Tarefas agendadas](/copilot/tarefas-agendadas). Não é a mesma lista.

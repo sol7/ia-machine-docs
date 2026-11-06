@@ -6,6 +6,6 @@ Cada colaborador tem nome, descrição e um estado ativo ou inativo. A busca enc
 
 Uma tarefa da operação pertence a um colaborador. Na lista de tarefas dá para filtrar pelo colaborador que executa o trabalho.
 
-O passo a passo do cadastro, com as treze seções do Canvas, está em [Criar e editar](colaboradores/criar-e-editar.md).
+O passo a passo do cadastro, com as treze seções do Canvas, está em [Criar e editar](criar-e-editar.md).
 
-O seu Copilot pessoal não aparece nesta lista como um colaborador da operação. O cadastro dele está em [Copilots](copilots.md).
+O seu Copilot pessoal não aparece nesta lista como um colaborador da operação. O cadastro dele está em [Copilots](/copilot).

@@ -85,7 +85,7 @@ Os dois passos são opcionais neste cadastro. O detalhe de cada um está em [E-m
 
 ## Autorizações
 
-A etapa **Autorizações** escolhe as ferramentas e os conectores que este Copilot pode usar no chat e nas tarefas. Isso não cadastra o conector no projeto. O cadastro do projeto está em [Conectores](../conectores.md).
+A etapa **Autorizações** escolhe as ferramentas e os conectores que este Copilot pode usar no chat e nas tarefas. Isso não cadastra o conector no projeto. O cadastro do projeto está em [Conectores](/trabalho/conectores).
 
 ## Depois de criar
 

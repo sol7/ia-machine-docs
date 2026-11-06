@@ -4,7 +4,7 @@
 
 Sem projeto selecionado, a tela pede: "Selecione um projeto para ver as tarefas agendadas."
 
-Esta lista é sua. A lista **Tarefas** da operação, ligada a um colaborador digital, está em [Tarefas](../tarefas.md).
+Esta lista é sua. A lista **Tarefas** da operação, ligada a um colaborador digital, está em [Tarefas](/trabalho/tarefas).
 
 ## Criar
 

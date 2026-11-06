@@ -6,12 +6,12 @@ Cada projeto tem o seu. Dá para trazer um Copilot pronto de outro projeto ou cr
 
 ## Onde ler
 
-* [Criar no primeiro acesso](copilot/primeiro-acesso.md)
-* [Chat](copilot/chat.md)
-* [E-mail](copilot/email.md)
-* [WhatsApp](copilot/whatsapp.md)
-* [Voz](copilot/voz.md)
-* [Tarefas agendadas](copilot/tarefas-agendadas.md)
-* [Artefatos](copilot/artefatos.md)
+* [Criar no primeiro acesso](primeiro-acesso.md)
+* [Chat](chat.md)
+* [E-mail](email.md)
+* [WhatsApp](whatsapp.md)
+* [Voz](voz.md)
+* [Tarefas agendadas](tarefas-agendadas.md)
+* [Artefatos](artefatos.md)
 
 O cadastro pode ser reaberto em **Perfil › Meu Copilot**.
