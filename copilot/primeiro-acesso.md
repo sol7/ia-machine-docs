@@ -97,7 +97,7 @@ A voz vale para respostas em áudio e para a Voz ao Vivo.
 
 Os dois passos são opcionais neste cadastro. O detalhe de cada um está em E-mail e WhatsApp.
 
-<table data-view="cards"><thead><tr><th>Canal opcional</th><th data-card-target data-type="content-ref">Abrir</th></tr></thead><tbody><tr><td><strong>E-mail</strong></td><td><a href="email.md">email</a></td></tr><tr><td><strong>WhatsApp</strong></td><td><a href="whatsapp.md">whatsapp</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>Canal opcional</th><th data-card-target data-type="content-ref">Abrir</th></tr></thead><tbody><tr><td><strong>E-mail</strong><br>O e-mail do Copilot lê a sua caixa e envia em seu nome só quando você pede no chat.</td><td><a href="email.md">email</a></td></tr><tr><td><strong>WhatsApp</strong><br>O WhatsApp do Copilot envia mensagens pelo seu número quando você pede no chat.</td><td><a href="whatsapp.md">whatsapp</a></td></tr></tbody></table>
 
 ## Autorizações
 

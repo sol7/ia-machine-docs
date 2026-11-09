@@ -10,4 +10,5 @@ Este arquivo orienta quem escreve ou revisa a documentação. Ele não entra no 
 * Não documente item de menu que ainda não abre.
 * Uma página explica uma área. O passo a passo fica em Primeiros passos ou na página daquela área.
 * Quando a página apresenta várias entradas, use aviso (`hint`), cartões (`cards`) e a faixa de link (`content-ref`). O cartão aponta para uma página da mesma seção ou para o endereço da outra aba.
+* O cartão de entrada tem o título, uma frase já escrita na documentação e o link. A frase não é inventada.
 * Antes de publicar, alguém que usa o produto confere se a página ainda corresponde à tela.

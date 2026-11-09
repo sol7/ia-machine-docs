@@ -10,7 +10,7 @@ Se ainda não rodou, a lista mostra "Ainda não executou".
 
 ## Onde ler
 
-<table data-view="cards"><thead><tr><th>Onde ler</th><th data-card-target data-type="content-ref">Abrir</th></tr></thead><tbody><tr><td><strong>Criar uma tarefa</strong></td><td><a href="tarefas/criar.md">criar</a></td></tr><tr><td><strong>Fluxo</strong></td><td><a href="tarefas/fluxo.md">fluxo</a></td></tr><tr><td><strong>Agendamento</strong></td><td><a href="tarefas/agendamento.md">agendamento</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>Onde ler</th><th data-card-target data-type="content-ref">Abrir</th></tr></thead><tbody><tr><td><strong>Criar uma tarefa</strong><br>Em <strong>Tarefas</strong>, o botão <strong>Criar Tarefa</strong> pede primeiro o colaborador digital que vai executar o trabalho.</td><td><a href="tarefas/criar.md">criar</a></td></tr><tr><td><strong>Fluxo</strong><br>O fluxo é o desenho dos passos da tarefa.</td><td><a href="tarefas/fluxo.md">fluxo</a></td></tr><tr><td><strong>Agendamento</strong><br>A frequência é obrigatória na criação da tarefa.</td><td><a href="tarefas/agendamento.md">agendamento</a></td></tr></tbody></table>
 
 {% hint style="info" %}
 As tarefas que o seu Copilot executa para você, no seu horário, ficam em Tarefas agendadas. Não é a mesma lista.
