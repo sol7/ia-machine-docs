@@ -2,7 +2,11 @@
 
 O fluxo é o desenho dos passos da tarefa. Cada bloco se chama nó. O nó **Início** é o ponto de partida. Os nós seguintes se ligam a partir dele.
 
-Cada nó tem **Abrir manual do nó**. O manual, quando existe, separa visão geral, configuração, como usar, exemplos e referência. Se ainda não houver texto, a tela diz: "Ainda não há manual para este nó."
+Cada nó tem **Abrir manual do nó**. O manual, quando existe, separa visão geral, configuração, como usar, exemplos e referência.
+
+{% hint style="info" %}
+Se ainda não houver texto, a tela diz: "Ainda não há manual para este nó."
+{% endhint %}
 
 ## Nós do fluxo
 
@@ -50,7 +54,9 @@ Cada nó tem **Abrir manual do nó**. O manual, quando existe, separa visão ger
 
 Em branco, Dashboard, Relatório executivo, Resumo em texto, Apresentação em slides, Infográfico, Tabela de dados, Cartão de alerta, Storyboard e Livro.
 
+{% hint style="info" %}
 **Anotação** não executa um passo. Serve para desenhar uma nota no fluxo.
+{% endhint %}
 
 ## Artefato no fluxo
 
@@ -74,4 +80,8 @@ Quando o fluxo precisa parar para uma pessoa, a configuração se chama **Config
 
 Na execução de verdade, a pausa abre **Revisão humana aguardando você**. Dá para responder ali ou fechar e responder depois em **Interações humanas**. Os desfechos possíveis são: aprovada, reprovada, respondida, prazo vencido (o fluxo segue pela saída Timeout) ou cancelada.
 
-O acompanhamento desses pedidos está em [Interações humanas](../acompanhar/interacoes-humanas.md).
+O acompanhamento desses pedidos está em Interações humanas.
+
+{% content-ref url="../acompanhar/interacoes-humanas.md" %}
+[Interações humanas](../acompanhar/interacoes-humanas.md)
+{% endcontent-ref %}

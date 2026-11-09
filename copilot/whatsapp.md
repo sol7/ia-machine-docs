@@ -12,7 +12,9 @@ A tela pede para ler o código com o celular, nesta ordem:
 2. Toque em **Aparelhos conectados**.
 3. Toque em **Conectar aparelho** e aponte para o código.
 
+{% hint style="success" %}
 Quando a leitura termina, a plataforma confirma "WhatsApp conectado." Se o número vier na conta, a frase inclui o telefone.
+{% endhint %}
 
 ## O que a conta mostra
 
@@ -22,8 +24,20 @@ Depois de conectado, a tela pode mostrar:
 * o tipo: conta pessoal ou WhatsApp Business
 * recado, categoria, site, e-mail e endereço, quando a conta tiver esses dados
 
-**Trocar** inicia outra conexão. Se a desconexão falhar, a mensagem é: "Não foi possível desconectar agora. Tente de novo."
+**Trocar** inicia outra conexão.
+
+{% hint style="warning" %}
+Se a desconexão falhar, a mensagem é: "Não foi possível desconectar agora. Tente de novo."
+{% endhint %}
 
 ## O que ele pode enviar
 
-O Copilot manda mensagem pelo número conectado quando você pede no chat. O envio não acontece sozinho. Tarefas agendadas que dependem de WhatsApp só aparecem como disponíveis quando este canal está conectado. Veja [Tarefas agendadas](tarefas-agendadas.md).
+{% hint style="info" %}
+O Copilot manda mensagem pelo número conectado quando você pede no chat. O envio não acontece sozinho.
+{% endhint %}
+
+Tarefas agendadas que dependem de WhatsApp só aparecem como disponíveis quando este canal está conectado.
+
+{% content-ref url="tarefas-agendadas.md" %}
+[Tarefas agendadas](tarefas-agendadas.md)
+{% endcontent-ref %}

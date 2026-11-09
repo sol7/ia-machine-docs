@@ -1,6 +1,10 @@
 # E-mail
 
-O e-mail do Copilot lê a sua caixa e envia em seu nome só quando você pede no chat. Nada sai sozinho.
+O e-mail do Copilot lê a sua caixa e envia em seu nome só quando você pede no chat.
+
+{% hint style="info" %}
+Nada sai sozinho.
+{% endhint %}
 
 Dá para conectar no primeiro acesso ou depois, em **Perfil › Meu Copilot** e pelo botão **Conectar** na home do Copilot.
 
@@ -9,8 +13,11 @@ Dá para conectar no primeiro acesso ou depois, em **Perfil › Meu Copilot** e 
 A tela pede: "Entre com a conta do seu e-mail de trabalho".
 
 * **Entrar com Google**
-* **Entrar com Microsoft.** Hoje o botão aparece desabilitado, com a marca **em breve**.
 * **Usa outro provedor? Conectar por IMAP/SMTP**
+
+{% hint style="warning" %}
+**Entrar com Microsoft.** Hoje o botão aparece desabilitado, com a marca **em breve**.
+{% endhint %}
 
 No IMAP/SMTP, informe o e-mail, o nome de exibição e a senha. O nome de exibição é o nome que aparece para quem recebe. A senha pode ser uma senha de app, se a conta usa verificação em duas etapas. Para alterar uma conta já salva, deixe a senha em branco para manter a senha atual.
 
@@ -19,7 +26,11 @@ Os servidores ficam em dois blocos:
 * **Envio (SMTP):** servidor, porta, segurança e usuário.
 * **Recebimento (IMAP):** os mesmos campos. Dá para marcar **Usar senha diferente para receber**.
 
-A tela avisa a combinação de segurança: SSL/TLS na porta 465 ou 993, ou STARTTLS na 587. O botão **Testar e salvar** testa envio e recebimento antes de gravar. O sucesso aparece como "E-mail conectado: envio e recebimento funcionando."
+A tela avisa a combinação de segurança: SSL/TLS na porta 465 ou 993, ou STARTTLS na 587. O botão **Testar e salvar** testa envio e recebimento antes de gravar.
+
+{% hint style="success" %}
+O sucesso aparece como "E-mail conectado: envio e recebimento funcionando."
+{% endhint %}
 
 O que o Copilot passa a poder fazer, no texto da própria tela:
 
@@ -28,6 +39,10 @@ O que o Copilot passa a poder fazer, no texto da própria tela:
 * enviar em seu nome, só quando você pedir no chat
 
 A assinatura vem do passo **Como eu falo**.
+
+{% content-ref url="primeiro-acesso.md" %}
+[Criar o Copilot no primeiro acesso](primeiro-acesso.md)
+{% endcontent-ref %}
 
 ## Estado da conta
 
@@ -38,7 +53,9 @@ Cada lado, envio e recebimento, aparece como:
 * Desligado
 * Com erro
 
+{% hint style="warning" %}
 **Recebimento incompleto** significa que falta o servidor de entrada. Sem ele, nada chega na caixa do Copilot. O botão **Completar recebimento** preenche os servidores e pede **Testar e salvar** de novo.
+{% endhint %}
 
 No Gmail, ler e enviar continuam funcionando. Para o Copilot agir na caixa (marcar como lido, arquivar, mover), use **Reconectar Gmail** e aceite a permissão nova.
 
@@ -66,4 +83,6 @@ A última regra é **Todo o resto** e fica fixa. Atalhos da tela criam regras pr
 
 A **Leitura inicial** lê a caixa para sugerir pessoas, assuntos e termos do seu trabalho. Essas sugestões aparecem em **Com quem trabalho**, **Meus assuntos** e **Termos do meu trabalho**. Dá para acrescentar, marcar alguém como importante, excluir um contato ou desfazer a exclusão. Um contato excluído não volta na próxima leitura até você desfazer.
 
+{% hint style="info" %}
 Sem e-mail conectado, a tela diz para conectar a caixa ou preencher à mão.
+{% endhint %}

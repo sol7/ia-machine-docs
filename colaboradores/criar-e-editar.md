@@ -7,7 +7,9 @@ A lista fica em **Colaboradores digitais**. A busca se chama **Buscar colaborado
 O título é **Criar novo colaborador digital**. A tela oferece dois caminhos:
 
 * **Criar Colaborador Digital Manual.** Disponível. O botão é **Começar do zero**. Você monta identidade, objetivo, personalidade, regras, conhecimento, acessos e métricas, seção a seção.
-* **Criar via Modelo.** Ainda **Em breve**. O botão aparece como **Aguardando lançamento**. A ideia é partir de um colaborador pré-configurado, como Comercial, Financeiro ou RH.
+{% hint style="warning" %}
+**Criar via Modelo.** Ainda **Em breve**. O botão aparece como **Aguardando lançamento**. A ideia é partir de um colaborador pré-configurado, como Comercial, Financeiro ou RH.
+{% endhint %}
 
 ## Passo 2 · Canvas
 
@@ -38,7 +40,11 @@ O Canvas tem quatro grupos e treze seções.
 12. **Critérios de Sucesso.** Que resultado conta como valor.
 13. **Observações e Notas.** Dependências, riscos e contexto para quem for manter o cadastro.
 
-O botão final é **Criar colaborador digital** na criação e **Salvar alterações** na edição. A confirmação de criação é "Colaborador digital criado com sucesso."
+O botão final é **Criar colaborador digital** na criação e **Salvar alterações** na edição.
+
+{% hint style="success" %}
+A confirmação de criação é "Colaborador digital criado com sucesso."
+{% endhint %}
 
 ## Visão Geral · campos
 
@@ -57,7 +63,9 @@ O botão final é **Criar colaborador digital** na criação e **Salvar alteraç
 * **Status.** **Colaborador digital ativo** liga ou desliga o cadastro.
 * **Ambiente.** Desenvolvimento, Homologação ou Produção.
 
+{% hint style="warning" %}
 Se a seção de e-mail ou de WhatsApp estiver em uso, os campos obrigatórios daquela seção precisam estar completos antes de salvar.
+{% endhint %}
 
 ## Personalidade e tom
 
@@ -78,7 +86,15 @@ Se a seção de e-mail ou de WhatsApp estiver em uso, os campos obrigatórios da
 
 **Postura emocional:** Empático, Neutro, Engajado, Motivacional ou Sério.
 
-**Voz e narração** pode clonar uma voz só deste colaborador. A gravação pedida é de cerca de 10 a 15 segundos, ou um arquivo wav, mp3, webm, ogg ou m4a entre 1 byte e 10 MB. O botão é **Criar clone**. A voz clonada só fica vinculada depois que você salva o colaborador. Essa voz não é a voz do seu Copilot pessoal.
+**Voz e narração** pode clonar uma voz só deste colaborador. A gravação pedida é de cerca de 10 a 15 segundos, ou um arquivo wav, mp3, webm, ogg ou m4a entre 1 byte e 10 MB. O botão é **Criar clone**. A voz clonada só fica vinculada depois que você salva o colaborador.
+
+{% hint style="info" %}
+Essa voz não é a voz do seu Copilot pessoal.
+{% endhint %}
+
+{% content-ref url="/copilot/voz" %}
+[Voz](/copilot/voz)
+{% endcontent-ref %}
 
 **Comportamento do modelo** tem **Tamanho máx. da resposta (tokens)**, entre 2 e 4096.
 
@@ -86,6 +102,10 @@ Se a seção de e-mail ou de WhatsApp estiver em uso, os campos obrigatórios da
 
 ## Excluir
 
+{% hint style="danger" %}
 A exclusão pede confirmação. Um snapshot vai para a Lixeira do projeto. A restauração recria a definição com novos identificadores. Canais, memória, versões e agendas não voltam.
+{% endhint %}
 
+{% hint style="warning" %}
 Não dá para excluir enquanto houver tarefa ativa ligada a ele. A mensagem pede para desativar todas as tarefas vinculadas e tentar de novo.
+{% endhint %}

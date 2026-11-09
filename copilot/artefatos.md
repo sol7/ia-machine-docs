@@ -5,7 +5,11 @@ No menu do seu uso pessoal, o grupo **Artefatos** tem duas listas:
 * **Meus artefatos.** O que foi produzido nas suas conversas.
 * **Compartilhado comigo.** O que outra pessoa compartilhou com você.
 
-Um artefato aberto pelo chat volta ao cartão da conversa em que foi criado. Se a definição de Studio não existir mais, a tela avisa para abrir de novo pelo cartão no chat.
+Um artefato aberto pelo chat volta ao cartão da conversa em que foi criado.
+
+{% hint style="warning" %}
+Se a definição de Studio não existir mais, a tela avisa para abrir de novo pelo cartão no chat.
+{% endhint %}
 
 ## Artefatos do projeto
 

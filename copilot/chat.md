@@ -6,7 +6,11 @@ O Chat é onde o Copilot trabalha com você. A tela inicial cumprimenta pelo hor
 
 **Nova interação** abre uma conversa. O campo pede "Escreva sua solicitação ou aperte / para atalhos rápidos."
 
-A conversa precisa de um destinatário. Se nenhum colaborador digital estiver escolhido, o envio fica bloqueado com a mensagem "Escolha um colaborador digital para poder enviar." O seu Copilot aparece como **Meu Copilot**.
+A conversa precisa de um destinatário. O seu Copilot aparece como **Meu Copilot**.
+
+{% hint style="warning" %}
+Se nenhum colaborador digital estiver escolhido, o envio fica bloqueado com a mensagem "Escolha um colaborador digital para poder enviar."
+{% endhint %}
 
 ## O que ele faz na conversa
 
@@ -17,7 +21,10 @@ Pelo que a própria boas-vindas descreve, no Chat o Copilot:
 * prepara conteúdos e respostas
 * executa tarefas no seu tom
 * usa só o que você tem permissão para acessar
-* mostra um rascunho e espera você mandar antes de qualquer envio
+
+{% hint style="info" %}
+Mostra um rascunho e espera você mandar antes de qualquer envio.
+{% endhint %}
 
 **Ideias para começar** oferece atalhos de conversa, com o botão **Usar**. Alguns exemplos da tela são resumir os e-mails desde ontem e agendar um resumo do dia nos dias úteis às 8h.
 
@@ -35,12 +42,10 @@ Pelo que a própria boas-vindas descreve, no Chat o Copilot:
 * Dispensadas
 * Pendentes
 
+{% hint style="info" %}
 Quando a fila zera, a tela mostra **Fila zerada**.
+{% endhint %}
 
 ## Onde continuar
 
-* [E-mail](email.md)
-* [WhatsApp](whatsapp.md)
-* [Voz](voz.md)
-* [Tarefas agendadas](tarefas-agendadas.md)
-* [Artefatos](artefatos.md)
+<table data-view="cards"><thead><tr><th>Onde continuar</th><th data-card-target data-type="content-ref">Abrir</th></tr></thead><tbody><tr><td><strong>E-mail</strong></td><td><a href="email.md">email</a></td></tr><tr><td><strong>WhatsApp</strong></td><td><a href="whatsapp.md">whatsapp</a></td></tr><tr><td><strong>Voz</strong></td><td><a href="voz.md">voz</a></td></tr><tr><td><strong>Tarefas agendadas</strong></td><td><a href="tarefas-agendadas.md">tarefas-agendadas</a></td></tr><tr><td><strong>Artefatos</strong></td><td><a href="artefatos.md">artefatos</a></td></tr></tbody></table>

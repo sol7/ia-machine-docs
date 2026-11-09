@@ -8,11 +8,4 @@ Esta documentação é para quem configura e acompanha a plataforma.
 
 ## Por onde começar
 
-* [Primeiros passos](primeiros-passos.md)
-* [Criar o Copilot](/copilot/primeiro-acesso)
-* [Chat](/copilot/chat)
-* [Colaboradores digitais](/colaboradores)
-* [Tarefas](/trabalho/tarefas)
-* [Conectores](/trabalho/conectores)
-* [Artefatos](/trabalho/artefatos)
-* [Acompanhar o trabalho](/trabalho/acompanhar)
+<table data-view="cards"><thead><tr><th>Por onde começar</th><th data-card-target data-type="content-ref">Abrir</th></tr></thead><tbody><tr><td><strong>Primeiros passos</strong></td><td><a href="primeiros-passos.md">primeiros-passos</a></td></tr><tr><td><strong>Criar o Copilot</strong></td><td><a href="/copilot/primeiro-acesso">primeiro-acesso</a></td></tr><tr><td><strong>Chat</strong></td><td><a href="/copilot/chat">chat</a></td></tr><tr><td><strong>Colaboradores digitais</strong></td><td><a href="/colaboradores">colaboradores</a></td></tr><tr><td><strong>Tarefas</strong></td><td><a href="/trabalho/tarefas">tarefas</a></td></tr><tr><td><strong>Conectores</strong></td><td><a href="/trabalho/conectores">conectores</a></td></tr><tr><td><strong>Artefatos</strong></td><td><a href="/trabalho/artefatos">artefatos</a></td></tr><tr><td><strong>Acompanhar o trabalho</strong></td><td><a href="/trabalho/acompanhar">acompanhar</a></td></tr></tbody></table>

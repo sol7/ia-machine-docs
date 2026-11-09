@@ -25,4 +25,12 @@ O campo **Quando a execução anterior ainda não terminou** escolhe o que fazer
 | Esperar a anterior e rodar só a mais recente | Guarda um disparo e roda assim que a execução atual terminar. Os outros horários do período são descartados. |
 | Pular este horário | Enquanto houver uma execução rodando ou aguardando, o horário é descartado e não roda depois. |
 
-A tarefa ativa entra na fila desses horários. Desativar a tarefa tira os próximos disparos sem apagar o cadastro. O resultado de cada disparo aparece em [Execuções](../acompanhar/execucoes.md).
+{% hint style="info" %}
+A tarefa ativa entra na fila desses horários. Desativar a tarefa tira os próximos disparos sem apagar o cadastro.
+{% endhint %}
+
+O resultado de cada disparo aparece em Execuções.
+
+{% content-ref url="../acompanhar/execucoes.md" %}
+[Execuções](../acompanhar/execucoes.md)
+{% endcontent-ref %}

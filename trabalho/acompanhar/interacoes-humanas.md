@@ -2,7 +2,9 @@
 
 **Interações humanas** é a fila do que uma execução pediu para uma pessoa decidir ou responder.
 
+{% hint style="info" %}
 Quando o fluxo chega numa revisão humana, a execução pausa e abre **Revisão humana aguardando você**. O texto explica: responda para o fluxo seguir pela saída **Respondido**, ou feche e responda depois nesta tela.
+{% endhint %}
 
 O pedido traz a solicitação e o contexto configurados no fluxo. **Abrir para responder** volta para a interação.
 
@@ -18,4 +20,8 @@ O pedido traz a solicitação e o contexto configurados no fluxo. **Abrir para r
 
 Se houver outra revisão em seguida, a tela avisa qual acabou e qual é a próxima.
 
-A configuração desse passo, no desenho da tarefa, está em [Fluxo da tarefa](../tarefas/fluxo.md).
+A configuração desse passo, no desenho da tarefa, está em Fluxo da tarefa.
+
+{% content-ref url="../tarefas/fluxo.md" %}
+[Fluxo da tarefa](../tarefas/fluxo.md)
+{% endcontent-ref %}

@@ -17,12 +17,24 @@ A lista mostra os **Usuários Cadastrados** e quantos foram encontrados. A busca
 * **Cargo** e **Setor**, quando o cadastro do projeto usa esses campos.
 * **Papel no projeto.**
 
+{% hint style="success" %}
 A criação confirmada mostra "Usuário criado com sucesso."
+{% endhint %}
 
 **Convidar Usuário** envia o acesso para quem ainda não está no projeto.
 
 ## Editar e ver
 
-**Editar Usuário** altera os mesmos dados. **Visualizar usuário** abre as informações somente para leitura. **Atualizar Usuário** grava a edição e confirma "Usuário atualizado com sucesso."
+**Editar Usuário** altera os mesmos dados. **Visualizar usuário** abre as informações somente para leitura.
 
-A exclusão confirma "Usuário excluído com sucesso." A busca sem resultado mostra **Nenhum usuário encontrado**.
+{% hint style="success" %}
+**Atualizar Usuário** grava a edição e confirma "Usuário atualizado com sucesso."
+{% endhint %}
+
+{% hint style="danger" %}
+A exclusão confirma "Usuário excluído com sucesso."
+{% endhint %}
+
+{% hint style="info" %}
+A busca sem resultado mostra **Nenhum usuário encontrado**.
+{% endhint %}

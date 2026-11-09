@@ -2,7 +2,9 @@
 
 **Atividades** mostra o trabalho realizado pelos colaboradores digitais e pelo seu Copilot.
 
-A lista serve para ler o que já aconteceu. O estado de cada execução em andamento, e o que ainda vai rodar hoje, fica em [Execuções](execucoes.md).
+{% hint style="info" %}
+A lista serve para ler o que já aconteceu. O estado de cada execução em andamento, e o que ainda vai rodar hoje, fica em Execuções.
+{% endhint %}
 
 Os status usados na plataforma para o resultado do trabalho são:
 
@@ -10,3 +12,7 @@ Os status usados na plataforma para o resultado do trabalho são:
 | --- | --- |
 | Sucesso | Terminou bem |
 | Falha | Terminou com falha |
+
+{% content-ref url="execucoes.md" %}
+[Execuções](execucoes.md)
+{% endcontent-ref %}

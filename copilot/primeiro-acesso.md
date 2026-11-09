@@ -2,9 +2,15 @@
 
 No primeiro acesso a um projeto, a plataforma abre **Criar meu Copilot**. O texto da tela diz: leva uns 5 minutos e só os passos com * são obrigatórios. A plataforma libera o restante quando você conclui.
 
-O Copilot é privado. Só você conversa com ele. Nem os administradores do projeto veem essa conversa. Dá para mudar o cadastro depois em **Perfil › Meu Copilot**.
+{% hint style="info" %}
+O Copilot é privado. Só você conversa com ele. Nem os administradores do projeto veem essa conversa.
+{% endhint %}
 
+Dá para mudar o cadastro depois em **Perfil › Meu Copilot**.
+
+{% hint style="warning" %}
 Se você ainda não escolheu um projeto, a tela avisa: "Nenhum projeto selecionado. Escolha um projeto para criar seu Copilot."
+{% endhint %}
 
 ## Boas-vindas
 
@@ -43,7 +49,11 @@ O menu lateral do cadastro tem dois grupos.
 | WhatsApp | Não | Enviar pelo seu número |
 | Autorizações | Não | Ferramentas e conectores do chat e das tarefas |
 
-Os botões do rodapé são **Anterior**, **Próximo** e, nos passos opcionais, **Pular por agora**. Pular não marca o passo como concluído. O botão final **Criar meu Copilot** só libera depois de **Quem sou eu** e **Como eu falo**. Se faltar um dos dois, a mensagem é: "Preencha “Quem sou eu” e “Como eu falo” para criar seu Copilot."
+Os botões do rodapé são **Anterior**, **Próximo** e, nos passos opcionais, **Pular por agora**. Pular não marca o passo como concluído. O botão final **Criar meu Copilot** só libera depois de **Quem sou eu** e **Como eu falo**.
+
+{% hint style="warning" %}
+Se faltar um dos dois, a mensagem é: "Preencha “Quem sou eu” e “Como eu falo” para criar seu Copilot."
+{% endhint %}
 
 O menu lateral só abre um passo que você já alcançou ou que já está concluído. Não dá para pular **Como eu falo** pelo menu.
 
@@ -75,18 +85,32 @@ Este passo pode ser pulado. Há duas formas:
 * **Clonar minha voz.** Leia um texto curto em voz alta. A gravação leva cerca de 30 segundos. Antes de gravar, marque **Autorizo a clonagem da minha voz**. A autorização vale só para o seu Copilot neste projeto. Sem a marca, o microfone fica bloqueado. O botão de gravar alterna entre **Gravar** e **Parar a gravação**.
 * **Escolher uma voz.** Vozes prontas, com filtro de idioma e de tipo (Todas, Femininas, Masculinas). Ouça com **Ouvir** e confirme com **Usar esta voz**. Não grava nem pede autorização de clonagem.
 
-Trocar uma voz clonada por uma voz do catálogo apaga a voz clonada e revoga a autorização. Para voltar à sua voz, é preciso gravar de novo. O botão de confirmação é **Trocar e apagar a clonada**. Para apagar a voz clonada depois, use **Perfil › Meu Copilot**.
+{% hint style="danger" %}
+Trocar uma voz clonada por uma voz do catálogo apaga a voz clonada e revoga a autorização. Para voltar à sua voz, é preciso gravar de novo. O botão de confirmação é **Trocar e apagar a clonada**.
+{% endhint %}
+
+Para apagar a voz clonada depois, use **Perfil › Meu Copilot**.
 
 A voz vale para respostas em áudio e para a Voz ao Vivo.
 
 ## E-mail e WhatsApp
 
-Os dois passos são opcionais neste cadastro. O detalhe de cada um está em [E-mail](email.md) e [WhatsApp](whatsapp.md).
+Os dois passos são opcionais neste cadastro. O detalhe de cada um está em E-mail e WhatsApp.
+
+<table data-view="cards"><thead><tr><th>Canal opcional</th><th data-card-target data-type="content-ref">Abrir</th></tr></thead><tbody><tr><td><strong>E-mail</strong></td><td><a href="email.md">email</a></td></tr><tr><td><strong>WhatsApp</strong></td><td><a href="whatsapp.md">whatsapp</a></td></tr></tbody></table>
 
 ## Autorizações
 
-A etapa **Autorizações** escolhe as ferramentas e os conectores que este Copilot pode usar no chat e nas tarefas. Isso não cadastra o conector no projeto. O cadastro do projeto está em [Conectores](/trabalho/conectores).
+A etapa **Autorizações** escolhe as ferramentas e os conectores que este Copilot pode usar no chat e nas tarefas. Isso não cadastra o conector no projeto.
+
+{% content-ref url="/trabalho/conectores" %}
+[Conectores](/trabalho/conectores)
+{% endcontent-ref %}
 
 ## Depois de criar
 
-Ao terminar, a plataforma abre o Chat, em **Nova interação**, com o seu Copilot já escolhido. O uso do dia a dia está em [Chat](chat.md).
+Ao terminar, a plataforma abre o Chat, em **Nova interação**, com o seu Copilot já escolhido.
+
+{% content-ref url="chat.md" %}
+[Chat](chat.md)
+{% endcontent-ref %}

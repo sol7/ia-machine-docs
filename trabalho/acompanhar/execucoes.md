@@ -2,7 +2,11 @@
 
 **Execuções** mostra a **Atividade do dia**: as próximas execuções, as execuções recentes e o que está em andamento.
 
-O resumo da tela pode dizer quantas tarefas estão agendadas para hoje, em quanto tempo vem a próxima, qual foi a última e se alguma está em execução. Quando não há nada marcado para o dia, a mensagem é "Nenhuma execução agendada para hoje".
+O resumo da tela pode dizer quantas tarefas estão agendadas para hoje, em quanto tempo vem a próxima, qual foi a última e se alguma está em execução.
+
+{% hint style="info" %}
+Quando não há nada marcado para o dia, a mensagem é "Nenhuma execução agendada para hoje".
+{% endhint %}
 
 ## Status
 
@@ -18,8 +22,18 @@ O resumo da tela pode dizer quantas tarefas estão agendadas para hoje, em quant
 
 ## Cancelar
 
-Quem tem permissão pode cancelar uma execução em andamento. Durante o pedido, o botão mostra **Cancelando...**. Ao terminar, a mensagem é **Execução cancelada**.
+Quem tem permissão pode cancelar uma execução em andamento. Durante o pedido, o botão mostra **Cancelando...**.
 
+{% hint style="info" %}
+Ao terminar, a mensagem é **Execução cancelada**.
+{% endhint %}
+
+{% hint style="warning" %}
 Se o cancelamento já estiver em andamento, se a execução não for encontrada ou se você não tiver permissão, a tela explica o motivo e nada além disso é cancelado.
+{% endhint %}
 
-Uma execução cancelada ou já encerrada não cria revisão humana. O que ficou aguardando uma pessoa continua em [Interações humanas](interacoes-humanas.md).
+Uma execução cancelada ou já encerrada não cria revisão humana. O que ficou aguardando uma pessoa continua em Interações humanas.
+
+{% content-ref url="interacoes-humanas.md" %}
+[Interações humanas](interacoes-humanas.md)
+{% endcontent-ref %}
