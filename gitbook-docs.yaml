@@ -18,53 +18,40 @@ site:
             language: pt-br
     - type: section
       key: section-copilot
-      title: Copilot
-      path: copilot
+      title: IA Assistant
+      path: assistant
       children:
         - type: space
           key: space-copilot
-          title: Copilot
+          title: IA Assistant
           path: paginas-copilot
           default: true
           content:
-            directory: ./copilot
-            language: pt-br
-    - type: section
-      key: section-colaboradores
-      title: Força de trabalho
-      path: colaboradores
-      children:
-        - type: space
-          key: space-colaboradores
-          title: Força de trabalho
-          path: paginas-colaboradores
-          default: true
-          content:
-            directory: ./colaboradores
+            directory: ./assistant
             language: pt-br
     - type: section
       key: section-trabalho
-      title: Trabalho
-      path: trabalho
+      title: IA Operations
+      path: operations
       children:
         - type: space
           key: space-trabalho
-          title: Trabalho
+          title: IA Operations
           path: paginas-trabalho
           default: true
           content:
-            directory: ./trabalho
+            directory: ./operations
             language: pt-br
     - type: section
-      key: section-admin
-      title: Administração
-      path: admin
+      key: section-referencia
+      title: Referência
+      path: referencia
       children:
         - type: space
-          key: space-admin
-          title: Administração
-          path: paginas-admin
+          key: space-referencia
+          title: Referência
+          path: paginas-referencia
           default: true
           content:
-            directory: ./admin
+            directory: ./referencia
             language: pt-br
