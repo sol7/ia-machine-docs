@@ -2,13 +2,19 @@
 
 O Meu Copilot é o agente pessoal deste projeto. Ele aprende como você trabalha para responder no chat no seu tom, e só envia e-mail ou WhatsApp quando você pede. Administrador do projeto não lê essa conversa. Ter um colaborador digital na operação não substitui este cadastro, e este cadastro não cria um colaborador para a equipe.
 
+O percurso ilustrado, do seletor do projeto até o chat, está em Primeiro acesso. Esta página é a referência dos mesmos nomes.
+
+{% content-ref url="primeiro-acesso.md" %}
+[Primeiro acesso](primeiro-acesso.md)
+{% endcontent-ref %}
+
 ## Para que serve
 
-Configura o Copilot da pessoa neste projeto. O texto da tela diz: leva uns 5 minutos e só os passos com * são obrigatórios. A plataforma libera o restante quando a pessoa conclui.
+Configura o Copilot da pessoa neste projeto. O texto do topo diz: leva uns 5 minutos e só os passos com * são obrigatórios. A plataforma libera o uso assim que você conclui.
 
 ## Quem vê
 
-Só essa pessoa. O Copilot é privado. Nem os administradores do projeto veem essa conversa.
+Só essa pessoa. O Copilot é privado. A tela repete: só você conversa com ele, nem os administradores do projeto veem essa conversa.
 
 ## Onde fica
 
@@ -16,43 +22,67 @@ Configurações, aba Pessoal, Meu Copilot. No primeiro acesso a um projeto, a pl
 
 ## O que a tela mostra
 
-Os passos são Quem sou eu, Como eu falo, Minha voz, E-mail, WhatsApp e Autorizações.
+Os passos são Quem sou eu, Como eu falo, Minha voz, E-mail, WhatsApp e Autorizações. Quem sou eu e Como eu falo são obrigatórios. Os outros três podem ficar **Não configurado**.
 
 {% hint style="warning" %}
 Se ainda não houver projeto, a tela avisa: "Nenhum projeto selecionado. Escolha um projeto para criar seu Copilot."
 {% endhint %}
 
-{% hint style="warning" %}
-O botão final **Criar meu Copilot** só libera depois de **Quem sou eu** e **Como eu falo**. Se faltar um dos dois, a mensagem é: "Preencha “Quem sou eu” e “Como eu falo” para criar seu Copilot."
-{% endhint %}
+Se a pessoa já tem Copilot em outro projeto, a abertura oferece dois cartões. **Trazer meu Copilot de outro projeto** copia quem você é, o jeito de falar e a voz. O rádio **De qual projeto?** lista os projetos que já têm Copilot. O botão é **Trazer em 1 minuto**. **Criar um Copilot do zero** abre os seis passos só para este projeto. A marca é **5 minutos**. O botão é **Começar do zero**. O título desta abertura usa o projeto e o nome. Num exemplo da tela: **Boas-vindas ao permissões, Administrador.**
 
-A abertura explica três pontos: **Você ensina uma vez**, **Ele trabalha com você no Chat** e **Você decide o envio**. O botão desta tela é **Criar meu Copilot**. A duração indicada é "~5 min · só 2 passos obrigatórios".
+Os botões do rodapé são **Anterior**, **Próximo** e, nos passos opcionais, **Pular por agora**. Passo pulado não entra em **Pronto em** e não ganha visto. Com só os dois obrigatórios, a barra fica em **40%**.
 
-Se a pessoa já tem Copilot em outro projeto, a tela oferece **Trazer meu Copilot**, com o botão **Trazer em 1 minuto**, ou **Criar um Copilot do zero**, com o botão **Começar do zero**. Com mais de um projeto, a tela pede **De qual projeto?**. Trazer copia o que você já ensinou. Começar do zero abre os passos de novo, só para este projeto.
-
-Os botões do rodapé são **Anterior**, **Próximo** e, nos passos opcionais, **Pular por agora**. Pular não marca o passo como concluído. O menu lateral só abre um passo que a pessoa já alcançou ou que já está concluído. Por isso não dá para ir direto em Autorizações sem passar pelos passos anteriores.
+O cartão **Seu Copilot** mostra o que já foi salvo. No passo 1, com o campo obrigatório preenchido, **Quem sou eu** fica **Configurado** e a barra marca **Pronto em 20%**. O Copilot aparece como **Em formação**. No passo 2, **Quem sou eu** ganha o visto e a barra vai a **Pronto em 40%**.
 
 ## Campos
 
-**Quem sou eu.** O bloco **Seus dados** traz nome, cargo, área e telefone. O telefone não se edita aqui. A dica da tela é: "Para mudar, edite seu cadastro." A foto aceita JPG, PNG, GIF ou WebP de até 2 MB. O campo obrigatório é **O que você faz no trabalho?**. Esse texto é o que o Copilot usa para entender o seu papel. Nome e cargo sozinhos não fecham o passo.
+**Quem sou eu.** Passo 1 de 6, obrigatório. A pergunta que fecha o passo é **O que você faz no trabalho?**. Dá para escrever ou usar **Falar em vez de escrever**, que grava um áudio curto e transforma em texto. Nome, cargo, área e telefone não estão neste formulário.
 
-**Como eu falo.** Define o tom das respostas e da assinatura. O **Teste ao vivo** pergunta **Parece você?**. As respostas são **Sim, sou eu** e **Ainda não**. As opções são tom, tamanho da resposta, tratamento, palavras que a pessoa usa e evita, assinatura e até 3 mensagens de exemplo. Se o teste não parecer você, ajuste o tom antes de seguir. A assinatura deste passo é a que o e-mail do Copilot usa depois.
+Três blocos podem ficar vazios neste primeiro acesso:
 
-**Minha voz.** Pode pular. Clonar a própria voz ou escolher uma voz pronta. Sem voz, o chat em texto continua funcionando. A voz clonada se apaga nesta mesma tela.
+* **Seus e-mails ainda não foram lidos.** Conectar o e-mail preenche com a Leitura inicial. Também dá para acrescentar à mão.
+* **Com quem trabalho.** Nenhuma pessoa ainda. **+ Acrescentar pessoa** inclui alguém e o tratamento.
+* **Meus assuntos.** Nenhum assunto ainda.
 
-**E-mail e WhatsApp.** São opcionais. Os dois só enviam quando a pessoa pede no chat. Conectar o canal não liga um envio automático.
+**Como eu falo.** Passo 2 de 6, obrigatório. Define o tom das respostas e a assinatura que vai no fim dos e-mails.
 
-**Autorizações.** Escolhe as ferramentas e os conectores que este Copilot pode usar no chat e nas tarefas. Isso não cadastra o conector no projeto. O catálogo do projeto continua em Conectores, e só o administrador o vê.
+| Campo | Opções |
+| --- | --- |
+| Você costuma ser… | Formal, Equilibrado ou Descontraído |
+| Suas respostas são… | Curtas e diretas, Médias ou Detalhadas |
+| Como você trata as pessoas | Opcional |
+| Palavras que você sempre usa | Opcional |
+| Palavras que você evita | Opcional |
+| Assinatura | Obrigatória. Vai no fim dos e-mails |
+
+Saudações e despedidas ficam recolhidas e são opcionais. O **Teste ao vivo** fica no canto esquerdo e mostra uma resposta de exemplo enquanto você ajusta. O cartão resume a escolha, por exemplo **Equilibrado · respostas curtas**.
+
+**Minha voz, E-mail e WhatsApp.** Passos 3, 4 e 5, opcionais. Nenhum deles impede o chat em texto. O passo a passo de cada um não entra nesta página.
+
+**Autorizações.** Passo 6 de 6, opcional. O texto pede as ferramentas e os conectores que este Copilot pode usar no chat e nas tarefas. Autorizar aqui não cadastra a ferramenta no projeto.
+
+O bloco **Ferramentas** lista Visualizar tarefas, Executar tarefas, Visualizar execuções, Visualizar insights, Usar habilidades, Requisições HTTP, Calculadora, Usar Datatables e Criar artefatos.
+
+**Conectores** pode aparecer vazio: **Nenhum conector disponível no catálogo.**
+
+**Quando pedir meu ok** segura o envio pela caixa e pela Mesa quando a regra vale. Os dois interruptores começam desligados:
+
+* **E-mail para fora da minha empresa.** O destinatário tem um domínio diferente do seu e-mail.
+* **Primeiro contato.** Você nunca enviou nada para essa pessoa.
+
+Mensagem nova pedida no chat continua pedindo confirmação no próprio chat, com ou sem esses interruptores.
+
+Com os dois passos obrigatórios marcados, o botão **Criar meu Copilot** fica liberado. **Pular por agora** também está no rodapé.
 
 ## O que dá para fazer
 
-Concluir os dois passos obrigatórios, pular voz, e-mail e WhatsApp, e trazer um Copilot de outro projeto. Depois dá para voltar em Perfil e completar o que ficou pulado. Pular não conclui o passo, então ele continua disponível.
+Concluir os dois passos obrigatórios, pular voz, e-mail e WhatsApp, e trazer um Copilot de outro projeto. Depois dá para voltar em **Perfil › Meu Copilot** e completar o que ficou **Não configurado**.
 
-<table data-view="cards"><thead><tr><th>Passo</th><th data-card-target data-type="content-ref">Abrir</th></tr></thead><tbody><tr><td><strong>E-mail</strong><br>O e-mail do Copilot lê a sua caixa e envia em seu nome só quando você pede no chat.</td><td><a href="/assistant/email">email</a></td></tr><tr><td><strong>WhatsApp</strong><br>O WhatsApp do Copilot envia mensagens pelo seu número quando você pede no chat.</td><td><a href="/assistant/whatsapp">whatsapp</a></td></tr><tr><td><strong>Minha voz</strong><br>A voz do Copilot serve para respostas em áudio e para a Voz ao Vivo.</td><td><a href="/assistant/voz">voz</a></td></tr><tr><td><strong>Chat</strong><br>Ao terminar, a plataforma abre o Chat, em Nova interação, com o seu Copilot já escolhido.</td><td><a href="/assistant/chat">chat</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>Passo</th><th data-card-target data-type="content-ref">Abrir</th></tr></thead><tbody><tr><td><strong>E-mail</strong><br>O e-mail do Copilot lê a sua caixa e envia em seu nome só quando você pede no chat.</td><td><a href="https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/email">E-mail</a></td></tr><tr><td><strong>WhatsApp</strong><br>O WhatsApp do Copilot envia mensagens pelo seu número quando você pede no chat.</td><td><a href="https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/whatsapp">WhatsApp</a></td></tr><tr><td><strong>Minha voz</strong><br>A voz do Copilot serve para respostas em áudio e para a Voz ao Vivo.</td><td><a href="https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/voz">Voz</a></td></tr><tr><td><strong>Chat</strong><br>A saudação usa o seu nome. O destinatário já é Meu Copilot.</td><td><a href="https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/chat">Chat</a></td></tr></tbody></table>
 
 ## Limite atual
 
-A voz clonada se apaga nesta mesma tela quando a pessoa troca por uma voz do catálogo. O botão de confirmação é **Trocar e apagar a clonada**.
+Passo pulado não aumenta **Pronto em** e não ganha visto. A voz clonada, quando existe, se apaga na tela de voz ao trocar por uma voz do catálogo. O botão de confirmação é **Trocar e apagar a clonada**.
 
 {% hint style="danger" %}
 Trocar uma voz clonada por uma voz do catálogo apaga a voz clonada e revoga a autorização.
@@ -61,13 +91,13 @@ Trocar uma voz clonada por uma voz do catálogo apaga a voz clonada e revoga a a
 ## Dúvidas comuns
 
 **Preciso conectar e-mail e WhatsApp para usar o chat?**
-Não. Só Quem sou eu e Como eu falo são obrigatórios. Os canais podem ficar para depois. Enquanto estiverem desconectados, um modelo de tarefa que depende deles aparece como indisponível.
+Não. Só Quem sou eu e Como eu falo são obrigatórios. Os canais podem ficar **Não configurado**. A barra permanece em **40%** até esses passos serem salvos.
 
 **Autorizar uma ferramenta aqui cria o conector da empresa?**
-Não. Esta etapa só diz o que o seu Copilot pode usar no chat e nas suas tarefas. Cadastrar a ferramenta para o projeto é outra tela, Conectores, e pede administrador.
+Não. Autorizações vale para este Copilot. O catálogo pode dizer **Nenhum conector disponível no catálogo.** Cadastrar a ferramenta para o projeto é a tela Conectores, e pede administrador.
 
-**O colaborador digital da operação pode usar a minha voz?**
-Não. A voz deste Copilot é sua. A voz de um colaborador digital se configura na ficha dele e não substitui a sua.
+**O nome e o cargo entram em Quem sou eu?**
+Não. Esse formulário pede **O que você faz no trabalho?**. Nome, cargo, área e telefone não estão nele.
 
-**Troquei a voz clonada por uma pronta. Consigo desfazer?**
-A clonada é apagada e a autorização é revogada. Para voltar à sua voz, grave de novo nesta mesma tela.
+**O que o teste ao vivo mostra?**
+Uma resposta de exemplo, no canto esquerdo, enquanto você ajusta o tom e o tamanho.
