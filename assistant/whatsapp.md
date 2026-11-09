@@ -67,3 +67,17 @@ Conectar, trocar e desconectar.
 ## Limite atual
 
 O envio não acontece sozinho. Tarefas agendadas que dependem de WhatsApp só ficam disponíveis com este canal conectado.
+
+## Dúvidas comuns
+
+**Ler o código autoriza o Copilot a falar com os meus contatos?**
+A conexão é a mesma do WhatsApp Web: o celular mostra o código e você confirma em Aparelhos conectados. O envio pelo número conectado só acontece quando você pede no chat.
+
+**A tarefa de WhatsApp não aparece para agendar.**
+Modelos e tarefas que dependem deste canal só ficam disponíveis com ele conectado. Conecte primeiro e volte em Tarefas do Copilot.
+
+**Troquei de aparelho.**
+Use **Trocar** para iniciar outra conexão e leia o código de novo. Se a desconexão falhar, a mensagem é: "Não foi possível desconectar agora. Tente de novo."
+
+**Isto é o WhatsApp do colaborador digital?**
+Não. Este número é o do seu Copilot. O WhatsApp de um colaborador da operação fica na ficha dele, com conexão, regras, usuários autorizados e teste de envio.

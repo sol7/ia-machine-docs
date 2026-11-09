@@ -1,5 +1,7 @@
 # IA Assistant
 
+O IA Assistant é o lado pessoal da plataforma. A aba da esquerda abre o chat. Dali você conversa, agrupa conversas, pede uma tarefa sua, acha o que já falou e guarda o que o chat produziu. A operação da empresa, com colaboradores, fluxos e a Torre, fica na outra aba.
+
 ## Para que serve
 
 O Assistant é o chat com o Meu Copilot e com os colaboradores digitais.
@@ -14,7 +16,17 @@ A aba da esquerda abre em `/chat`.
 
 ## O que a tela mostra
 
-O menu pessoal do Assistant reúne o chat, os projetos, as tarefas, as interações, os artefatos, os dispositivos e os conectores da pessoa.
+O menu pessoal do Assistant reúne o chat, os projetos de conversa, as tarefas da pessoa, as interações, os artefatos, os dispositivos e os conectores da pessoa.
+
+Cada entrada responde a uma pergunta diferente:
+
+* **Chat.** Onde a conversa acontece.
+* **Projetos.** Pastas das suas conversas. Não é o projeto da empresa.
+* **Tarefas do Copilot.** O que o seu Copilot dispara para você. Não é a agenda dos colaboradores digitais.
+* **Interações.** A lista viva das conversas, no próprio menu.
+* **Artefatos.** O que nasceu ou foi compartilhado no chat.
+* **Dispositivos.** O aparelho ligado à conta. A mesma página existe na outra aba.
+* **Meus conectores.** O que o seu Copilot pode usar. Só administrador.
 
 ## Campos
 
@@ -29,3 +41,14 @@ Abrir cada tela do menu.
 ## Limite atual
 
 Meus conectores pedem administrador. Tarefas do Copilot somem sem projeto.
+
+## Dúvidas comuns
+
+**Acabei o primeiro acesso. Onde começo?**
+No Chat, em Nova interação, com o seu Copilot já escolhido. Voz, e-mail e WhatsApp podem ser conectados depois, em Perfil.
+
+**A tarefa que eu agendei não aparece na lista Tarefas da outra aba.**
+É outra lista. A sua fica em Tarefas do Copilot. A de Operations pertence a um colaborador digital do projeto.
+
+**Não vejo Meus conectores.**
+A entrada só aparece para administrador. Autorizar uma ferramenta no primeiro acesso do Copilot é um passo diferente e não abre esta lista.

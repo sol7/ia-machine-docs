@@ -69,3 +69,17 @@ Clonar a voz, escolher uma voz pronta, ou pular este passo.
 ## Limite atual
 
 Sem a autorização, o microfone não abre. Trocar a voz clonada por uma do catálogo apaga a clonada.
+
+## Dúvidas comuns
+
+**Preciso gravar a voz para usar o chat?**
+Não. O passo pode ser pulado. O chat em texto funciona sem voz. A voz entra nas respostas em áudio e na Voz ao Vivo.
+
+**O botão de gravar não abre o microfone.**
+Sem marcar **Autorizo a clonagem da minha voz**, o botão fica **Gravar (marque a autorização)** e o microfone não abre. Se o navegador bloquear o microfone, a tela pede para conferir a permissão. A autorização vale só para o seu Copilot neste projeto, e você pode apagar a voz a qualquer momento.
+
+**Escolhi uma voz pronta e perdi a clonada.**
+Usar uma voz do catálogo no lugar de uma voz clonada apaga a clonada e revoga a autorização. A confirmação se chama **Trocar e apagar a clonada**. Para voltar à sua voz, grave de novo.
+
+**O colaborador digital passou a falar com a minha voz?**
+Não. A voz de um colaborador digital é outra configuração, feita na ficha dele. Ela não substitui a voz do seu Copilot, e a sua não substitui a dele.

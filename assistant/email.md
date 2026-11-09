@@ -111,4 +111,21 @@ Conectar com Google ou IMAP/SMTP, testar e salvar, e completar o recebimento.
 
 ## Limite atual
 
-Nada sai sozinho. **Entrar com Microsoft** aparece desabilitado, com a marca **em breve**.
+Nada sai sozinho. **Entrar com Microsoft** aparece desabilitado, com a marca **em breve**. Não há passo de uso para esse botão.
+
+## Dúvidas comuns
+
+**Conectei o e-mail. Ele vai responder os clientes sozinho?**
+Não. A própria tela diz que o Copilot envia em seu nome só quando você pede no chat. A ação **Guardar e preparar resposta** cria um rascunho para você revisar. Nada é enviado sozinho.
+
+**O envio funciona e o recebimento não.**
+Isso é **Recebimento incompleto**: falta o servidor de entrada. Sem ele, nada chega na caixa do Copilot. Use **Completar recebimento** e **Testar e salvar** de novo. Desligar **Guardar e-mails na minha caixa do Copilot** também impede a entrada de novos e-mails, e o envio continua funcionando.
+
+**Quero entrar com a conta Microsoft.**
+O botão **Entrar com Microsoft** aparece desabilitado, com a marca **em breve**. O caminho disponível é Google ou IMAP/SMTP.
+
+**Mudei a senha e a conta já estava salva.**
+No IMAP/SMTP, deixe a senha em branco para manter a senha atual. Preencha uma senha nova só quando ela tiver mudado. Se a conta usa verificação em duas etapas, a senha pode ser uma senha de app.
+
+**As regras não parecem valer juntas.**
+Cada e-mail passa de cima para baixo. A primeira regra que combina decide. A última, **Todo o resto**, fica fixa e cobre o que nenhuma regra anterior pegou.
