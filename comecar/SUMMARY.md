@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 ## Começar
 
@@ -6,4 +6,4 @@
 * [Os dois ambientes](ambientes.md)
 * [Entrar, projeto e papéis](entrar.md)
 * [Meu Copilot](meu-copilot.md)
-* [Primeiro acesso](primeiro-acesso.md)
+* [Primeiro acesso](comecar/primeiro-acesso.md)

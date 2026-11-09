@@ -4,13 +4,13 @@ O Meu Copilot é o agente pessoal deste projeto. Ele aprende como você trabalha
 
 O percurso ilustrado, do seletor do projeto até o chat, está em Primeiro acesso. Esta página é a referência dos mesmos nomes.
 
-{% content-ref url="primeiro-acesso.md" %}
-[Primeiro acesso](primeiro-acesso.md)
+{% content-ref url="comecar/primeiro-acesso.md" %}
+[primeiro-acesso.md](comecar/primeiro-acesso.md)
 {% endcontent-ref %}
 
 ## Para que serve
 
-Configura o Copilot da pessoa neste projeto. O texto do topo diz: leva uns 5 minutos e só os passos com * são obrigatórios. A plataforma libera o uso assim que você conclui.
+Configura o Copilot da pessoa neste projeto. O texto do topo diz: leva uns 5 minutos e só os passos com \* são obrigatórios. A plataforma libera o uso assim que você conclui.
 
 ## Quem vê
 
@@ -46,14 +46,14 @@ Três blocos podem ficar vazios neste primeiro acesso:
 
 **Como eu falo.** Passo 2 de 6, obrigatório. Define o tom das respostas e a assinatura que vai no fim dos e-mails.
 
-| Campo | Opções |
-| --- | --- |
-| Você costuma ser… | Formal, Equilibrado ou Descontraído |
-| Suas respostas são… | Curtas e diretas, Médias ou Detalhadas |
-| Como você trata as pessoas | Opcional |
-| Palavras que você sempre usa | Opcional |
-| Palavras que você evita | Opcional |
-| Assinatura | Obrigatória. Vai no fim dos e-mails |
+| Campo                        | Opções                                 |
+| ---------------------------- | -------------------------------------- |
+| Você costuma ser…            | Formal, Equilibrado ou Descontraído    |
+| Suas respostas são…          | Curtas e diretas, Médias ou Detalhadas |
+| Como você trata as pessoas   | Opcional                               |
+| Palavras que você sempre usa | Opcional                               |
+| Palavras que você evita      | Opcional                               |
+| Assinatura                   | Obrigatória. Vai no fim dos e-mails    |
 
 Saudações e despedidas ficam recolhidas e são opcionais. O **Teste ao vivo** fica no canto esquerdo e mostra uma resposta de exemplo enquanto você ajusta. O cartão resume a escolha, por exemplo **Equilibrado · respostas curtas**.
 
@@ -78,7 +78,7 @@ Com os dois passos obrigatórios marcados, o botão **Criar meu Copilot** fica l
 
 Concluir os dois passos obrigatórios, pular voz, e-mail e WhatsApp, e trazer um Copilot de outro projeto. Depois dá para voltar em **Perfil › Meu Copilot** e completar o que ficou **Não configurado**.
 
-<table data-view="cards"><thead><tr><th>Passo</th><th data-card-target data-type="content-ref">Abrir</th></tr></thead><tbody><tr><td><strong>E-mail</strong><br>O e-mail do Copilot lê a sua caixa e envia em seu nome só quando você pede no chat.</td><td><a href="https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/email">E-mail</a></td></tr><tr><td><strong>WhatsApp</strong><br>O WhatsApp do Copilot envia mensagens pelo seu número quando você pede no chat.</td><td><a href="https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/whatsapp">WhatsApp</a></td></tr><tr><td><strong>Minha voz</strong><br>A voz do Copilot serve para respostas em áudio e para a Voz ao Vivo.</td><td><a href="https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/voz">Voz</a></td></tr><tr><td><strong>Chat</strong><br>A saudação usa o seu nome. O destinatário já é Meu Copilot.</td><td><a href="https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/chat">Chat</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>Passo</th><th data-card-target data-type="content-ref">Abrir</th></tr></thead><tbody><tr><td><strong>E-mail</strong><br>O e-mail do Copilot lê a sua caixa e envia em seu nome só quando você pede no chat.</td><td><a href="https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/email">https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/email</a></td></tr><tr><td><strong>WhatsApp</strong><br>O WhatsApp do Copilot envia mensagens pelo seu número quando você pede no chat.</td><td><a href="https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/whatsapp">https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/whatsapp</a></td></tr><tr><td><strong>Minha voz</strong><br>A voz do Copilot serve para respostas em áudio e para a Voz ao Vivo.</td><td><a href="https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/voz">https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/voz</a></td></tr><tr><td><strong>Chat</strong><br>A saudação usa o seu nome. O destinatário já é Meu Copilot.</td><td><a href="https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/chat">https://ia-machine.gitbook.io/ia-machine-docs/assistant/ia-assistant/chat</a></td></tr></tbody></table>
 
 ## Limite atual
 
@@ -90,14 +90,10 @@ Trocar uma voz clonada por uma voz do catálogo apaga a voz clonada e revoga a a
 
 ## Dúvidas comuns
 
-**Preciso conectar e-mail e WhatsApp para usar o chat?**
-Não. Só Quem sou eu e Como eu falo são obrigatórios. Os canais podem ficar **Não configurado**. A barra permanece em **40%** até esses passos serem salvos.
+**Preciso conectar e-mail e WhatsApp para usar o chat?** Não. Só Quem sou eu e Como eu falo são obrigatórios. Os canais podem ficar **Não configurado**. A barra permanece em **40%** até esses passos serem salvos.
 
-**Autorizar uma ferramenta aqui cria o conector da empresa?**
-Não. Autorizações vale para este Copilot. O catálogo pode dizer **Nenhum conector disponível no catálogo.** Cadastrar a ferramenta para o projeto é a tela Conectores, e pede administrador.
+**Autorizar uma ferramenta aqui cria o conector da empresa?** Não. Autorizações vale para este Copilot. O catálogo pode dizer **Nenhum conector disponível no catálogo.** Cadastrar a ferramenta para o projeto é a tela Conectores, e pede administrador.
 
-**O nome e o cargo entram em Quem sou eu?**
-Não. Esse formulário pede **O que você faz no trabalho?**. Nome, cargo, área e telefone não estão nele.
+**O nome e o cargo entram em Quem sou eu?** Não. Esse formulário pede **O que você faz no trabalho?**. Nome, cargo, área e telefone não estão nele.
 
-**O que o teste ao vivo mostra?**
-Uma resposta de exemplo, no canto esquerdo, enquanto você ajusta o tom e o tamanho.
+**O que o teste ao vivo mostra?** Uma resposta de exemplo, no canto esquerdo, enquanto você ajusta o tom e o tamanho.
