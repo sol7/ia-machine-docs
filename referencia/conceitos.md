@@ -35,10 +35,6 @@ Esta página não tem formulário.
 
 Abrir a página da tela correspondente quando um nome ainda parecer ambíguo.
 
-## Limite atual
-
-Item cadeado no menu não vira uso. A frase da página dele é "ainda não está no produto".
-
 ## Dúvidas comuns
 
 **Quantos "projetos" existem?**

@@ -44,7 +44,7 @@ Escolher por onde continuar, conforme a dúvida que você tem agora.
 
 ## Limite atual
 
-O ícone de Help e a integração com chamados ainda não entram nesta wiki. Item cadeado no menu não ganha passo a passo.
+O ícone de Help e a integração com chamados ainda não entram nesta wiki.
 
 ## Dúvidas comuns
 
@@ -53,6 +53,3 @@ Não. São as duas abas da mesma conta. A da esquerda é onde você conversa. A 
 
 **Posso usar a plataforma sem criar um colaborador digital?**
 Sim. O Meu Copilot já atende o dia a dia no chat. O colaborador digital existe quando a empresa quer um agente da operação, com tarefa, agenda e acompanhamento.
-
-**Por que a wiki tem uma página que só diz que algo ainda não está no produto?**
-Porque o nome está no menu e a tela não abre. Descrever um uso que não existe criaria um passo que você não consegue cumprir.
