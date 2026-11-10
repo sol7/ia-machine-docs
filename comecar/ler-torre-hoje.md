@@ -1,91 +1,99 @@
 ---
-icon: tower-control
+description: "Ler a Torre de Controle no período Hoje, da operação agora até inteligência e decisões."
 ---
 
 # Ler a Torre hoje
 
-A **Torre de Controle** mostra, em tempo real, o que sua equipe de colaboradores digitais está fazendo e o resultado da operação no período selecionado.
-
-## Passo a passo
+A Torre de Controle é a visão executiva do projeto aberto. Este percurso só lê. Ele não cria colaborador e não desenha tarefa. O período marcado nesta tela é **Hoje**.
 
 {% stepper %}
-
 {% step %}
-### Abrir a Torre
+## Abra a Torre
 
-1. Clique na aba **IA Operations** no topo da tela
-2. No menu lateral, clique em **Torre de Controle**
+Na aba **IA Operations**, o menu **Torre de Controle** abre a página. O título traz a marca **Visão executiva** e o texto **Equipe de colaboradores digitais**.
 
-A página carrega mostrando dados de **Hoje** por padrão.
+![Torre de Controle no período Hoje, com a operação agora zerada](.gitbook/assets/01-torre-operacao-agora.png)
 
-<figure><img src=".gitbook/assets/01-torre-operacao-agora.png" alt="Bloco Operação agora na Torre de Controle"><figcaption>O bloco mostra o que está acontecendo neste momento</figcaption></figure>
+No alto, os períodos são **Hoje**, **Semana** e **Mês**. **Hoje** é o que está marcado. Ao lado, **ao vivo** mostra há quantos segundos os números foram atualizados. Neste print, **há 5s**.
+
+O bloco **Operação agora** tem três contadores. Neste print os três estão em zero e cada um diz **nada agora**:
+
+| Contador | Neste print |
+| --- | --- |
+| Precisa de você | 0, nada agora |
+| Acontecendo agora | 0, nada agora |
+| A seguir | 0, nada agora |
+
+Abaixo fica a fileira **Todos os colaboradores digitais**, com os retratos de quem está no projeto. O botão **Operar um colaborador digital** aparece à direita. Este percurso não clica nele.
 {% endstep %}
 
 {% step %}
-### Ler o bloco "Operação agora"
+## Leia o resultado do período
 
-Este bloco mostra quantas tarefas:
+O bloco **Resultado no período** também está em **Hoje**.
 
-* **Precisa de você**: aguardam intervenção humana
-* **Acontecendo agora**: estão sendo executadas
-* **A seguir**: estão na fila para rodar
+![Resultado no período, diário vazio e a equipe no radar](.gitbook/assets/02-torre-resultado.png)
 
-Quando todos os contadores estão em zero, não há operação em andamento no momento.
+Os números deste print:
+
+| Contador | Neste print |
+| --- | --- |
+| Atuantes no período | 0 |
+| Tarefas agendadas | 0 |
+| Executadas | 0 |
+| Tarefas concluídas | 0 |
+| Taxa de sucesso | traço |
+| Valor gerado | traço, com o texto **Capacidade recuperada** |
+
+A linha **A operação** traz a marca **atual** e três totais do projeto, não do dia: **3 Colaboradores digitais ativos**, **13 Tarefas cadastradas** e **0 Automatizadas**.
 {% endstep %}
 
 {% step %}
-### Ver os resultados do período
+## Veja o diário e a equipe
 
-O bloco **Resultado no período** resume o que já aconteceu hoje:
+O **Diário da Equipe** diz: **Cada bolinha é uma execução — por colaborador digital e horário.**
 
-* **Atuantes no período**: quantos colaboradores digitais trabalharam
-* **Tarefas agendadas**: quantas tarefas estavam programadas
-* **Executadas**: quantas rodaram de fato
-* **Tarefas concluídas**: quantas terminaram com sucesso
-* **Taxa de sucesso**: percentual de conclusão
-* **Valor gerado**: estimativa de economia
+![Diário da Equipe vazio, radar da equipe e ritmo de trabalho](.gitbook/assets/03-torre-diario.png)
 
-<figure><img src=".gitbook/assets/02-torre-resultado.png" alt="Bloco Resultado no período"><figcaption>Resumo do que já aconteceu hoje</figcaption></figure>
+Neste print o diário está vazio. Os contadores do canto marcam **0 executadas** e **0 agendadas**. O centro diz **Nada por aqui hoje ainda.** A legenda lista **sucesso**, **erro**, **interrompido pelo revisor**, **agendadas** e **em andamento**. O link **Ver logs completos** fica na mesma faixa. Este percurso não abre esse link.
+
+Dois cartões vêm em seguida:
+
+| Cartão | Neste print |
+| --- | --- |
+| Equipe de colaboradores digitais | Radar com os retratos. A marca é **0 trabalhando**. A legenda é **trabalhando**, **atenção** e **ocioso**. |
+| Ritmo de trabalho | O texto é **Disparos agendados por período**. O centro diz **Nada por aqui hoje ainda.** |
 {% endstep %}
 
 {% step %}
-### Consultar o Diário da Equipe
+## Abra inteligência e decisões
 
-Mais abaixo, o **Diário da Equipe** lista eventos importantes que ocorreram, como:
+O último bloco desta tela é **Inteligência & decisões**. O filtro do canto diz **Todos os tipos**.
 
-* Tarefas concluídas
-* Erros ou alertas
-* Intervenções humanas
+![Bloco Inteligência e decisões com o item Acompanhar Sprint](.gitbook/assets/04-torre-inteligencia.png)
 
-Quando não há eventos, aparece "Nada por aqui hoje ainda".
+Neste print há um item:
 
-A visualização circular mostra a equipe de colaboradores ativos, com ícones e status de cada um.
+| O que aparece | Neste print |
+| --- | --- |
+| Nome | Renato, com a marca 1 |
+| Linha | **Acompanhar Sprint** |
+| Data | 24/09 13:19 |
+| Rodapé | **1 Insights · 1 colaboradores digitais** |
+| Ação | **Ver todos** |
 
-<figure><img src=".gitbook/assets/03-torre-diario.png" alt="Bloco Diário da Equipe"><figcaption>Linha do tempo de eventos e visualização da equipe</figcaption></figure>
+Este percurso para no bloco. Não abre **Ver todos**.
 {% endstep %}
-
-{% step %}
-### Ver Inteligência & decisões
-
-O último bloco, **Inteligência & decisões**, apresenta insights gerados pela IA Machine com base nos dados coletados:
-
-* Sugestões de otimização
-* Padrões identificados
-* Recomendações de ação
-
-Cada insight mostra quem publicou, quantos colaboradores estão envolvidos, e a data da análise.
-
-<figure><img src=".gitbook/assets/04-torre-inteligencia.png" alt="Bloco Inteligência & decisões"><figcaption>Insights e recomendações baseados em dados</figcaption></figure>
-{% endstep %}
-
 {% endstepper %}
 
-## Navegação por período
+## Limite deste percurso
 
-No topo da Torre, você pode trocar o período exibido:
+**Hoje**, **Semana** e **Mês** trocam o recorte. Este passo a passo fica em **Hoje**. **ao vivo** muda de segundo em segundo. O botão **Operar um colaborador digital** e o link **Ver logs completos** aparecem na tela e não são abertos aqui.
 
-* **Hoje**: operação em tempo real
-* **Ontem**: resumo do dia anterior
-* **Últimos 7 dias / 30 dias**: visão histórica
+## Dúvidas comuns
 
-Cada período atualiza todos os blocos com os dados correspondentes.
+Os contadores de **Operação agora** estão em zero. Neste print cada um diz **nada agora**. A linha **A operação** continua mostrando **3 Colaboradores digitais ativos** e **13 Tarefas cadastradas**. São totais do projeto, não o que está rodando neste instante.
+
+O diário diz **Nada por aqui hoje ainda.** A legenda já mostra as cores de **sucesso**, **erro**, **interrompido pelo revisor**, **agendadas** e **em andamento**. Nenhuma bolinha entrou neste período.
+
+**Valor gerado** está com traço. O texto debaixo é **Capacidade recuperada**. **Taxa de sucesso** também está com traço.

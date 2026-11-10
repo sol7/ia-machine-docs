@@ -1,83 +1,76 @@
 ---
-icon: list-check
+description: "Ler a lista de Execuções, os filtros visíveis e a paginação, sem abrir uma linha."
 ---
 
 # Ver o histórico de execuções
 
-A página **Execuções** registra todas as vezes que seus colaboradores digitais rodaram tarefas. Cada linha mostra o resultado técnico, logs e saídas de uma execução.
-
-## Passo a passo
+**Execuções** fica em **Orquestração e execução**, na aba **IA Operations**. O texto da página diz: **Acompanhe ocorrências, resultados técnicos e saídas lógicas das tarefas.** Este percurso só lê a lista. Não abre uma linha e não baixa arquivo.
 
 {% stepper %}
-
 {% step %}
-### Abrir a página de Execuções
+## Abra Execuções
 
-1. No menu lateral, expanda a seção **ORQUESTRAÇÃO E EXECUÇÃO**
-2. Clique em **Execuções**
+No menu lateral, em **Orquestração e execução**, clique em **Execuções**.
 
-A página carrega mostrando a lista de execuções mais recentes.
+![Lista de execuções com 17 registros e a primeira página aberta](.gitbook/assets/06-execucoes-lista.png)
 
-<figure><img src=".gitbook/assets/06-execucoes-lista.png" alt="Lista de execuções"><figcaption>Histórico de todas as tarefas executadas</figcaption></figure>
+Neste print o canto direito marca **17 execuções**, **17 sucesso** e **0 erro**.
 {% endstep %}
 
 {% step %}
-### Interpretar a lista
+## Leia uma linha
 
-Cada execução exibe:
+Cada linha traz o nome da tarefa, a versão, o colaborador, o estado, o canal e a data.
 
-* **Nome da tarefa**: o que foi executado
-* **Versão**: qual versão da tarefa rodou
-* **Colaborador**: quem executou (nome e avatar)
-* **Status**: Concluído, Erro, Em execução, Aguardando, Cancelado, Interrompida pelo revisor
-* **Canal**: origem da execução (Chat, API, agendamento)
-* **Data e hora**: quando aconteceu
-* **Ícones de ação**: visualizar detalhes, baixar logs
+Neste print a primeira linha é **Mover a papelera los correos enviados por mí**, **Versão 0.1**, colaborador **Martin Ricardo Piñeyro Wibe**. O estado é **Concluído**, com **Sucesso em 18 segundos**. O canal é **Chat**. A data é **08/11 20:04**. Outras linhas deste print usam o canal **API** e também estão **Concluído**.
+
+O fim de cada linha tem dois ícones. Este percurso não clica neles.
 {% endstep %}
 
 {% step %}
-### Filtrar execuções
+## Use o que a barra mostra
 
-No topo da página, use os filtros para refinar a busca:
+Acima da lista, **Lista** está marcado. **Linha do tempo** fica ao lado. A busca pede **Buscar por tarefa ou execução...**
 
-* **Abas de status**: Todos, Sucesso, Erro, Em execução, Aguardando, Cancelado, Interrompida pelo revisor
-* **Colaborador**: filtre por nome de colaborador digital
-* **Resultado técnico**: sucesso, falha, timeout, etc.
-* **Origem**: Chat, API, agendamento
-* **Período**: últimos 7 dias, 30 dias, ou intervalo personalizado
-* **Busca**: pesquise por nome de tarefa ou execução
+Os filtros visíveis neste print:
 
-Os números em cada aba mostram quantas execuções há em cada status.
+| Filtro | Neste print |
+| --- | --- |
+| Colaborador | Todos |
+| Resultado técnico | O nome começa assim e o restante fica cortado na tela. |
+| Origem | Todas |
+| Período | 7 dias |
+
+As abas contam o estado. Neste print:
+
+| Aba | Contagem |
+| --- | --- |
+| Todos | 17 |
+| Sucesso | 17 |
+| Erro | 0 |
+| Em execução | 0 |
+| Aguardando | 0 |
+| Cancelado | 0 |
+| Interrompida pelo revisor | 0 |
+
+Este percurso não troca aba nem filtro. A lista continua na aba **Todos**.
 {% endstep %}
 
 {% step %}
-### Visualizar ou alternar layout
+## Passe de página
 
-Acima da lista, há dois botões:
+O rodapé diz **Exibindo 1-10 de 17 execuções**. O seletor mostra **10 por página**. As páginas marcadas são **1** e **2**. A página **1** está aberta.
 
-* **Lista**: exibe em linhas (padrão)
-* **Linha do tempo**: mostra em ordem cronológica visual
-
-Use "Linha do tempo" para ver padrões de execução ao longo do dia ou da semana.
+A segunda página não entra neste percurso.
 {% endstep %}
-
-{% step %}
-### Navegar entre páginas
-
-No rodapé da lista, use:
-
-* **Itens por página**: escolha quantas execuções mostrar (10, 20, 50)
-* **Setas**: avance ou volte entre páginas
-* **Número da página**: veja em qual página está
-
-A contagem "Exibindo 1-10 de X execuções" informa o total de registros.
-{% endstep %}
-
 {% endstepper %}
 
-## Quando usar
+## Limite deste percurso
 
-* **Investigar falhas**: filtre por "Erro" para ver o que deu errado
-* **Auditar execuções**: consulte quem rodou o quê e quando
-* **Monitorar progresso**: acompanhe execuções "Em execução" ou "Aguardando"
-* **Baixar logs**: clique no ícone de download para exportar detalhes técnicos
+A tela mostra **Lista** e **Linha do tempo**. O passo a passo fica em **Lista**. Os dois ícones do fim da linha aparecem e não são abertos. O filtro **Resultado técnico** fica cortado neste print, então o texto não completa as opções dele.
+
+## Dúvidas comuns
+
+As marcas do canto dizem **17 sucesso** e **0 erro**, e a aba **Erro** também está em 0. As linhas visíveis estão **Concluído**.
+
+O canal desta primeira página é **Chat** ou **API**. A aba **Em execução** e a aba **Aguardando** existem e, neste print, estão em zero.
