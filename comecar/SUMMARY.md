@@ -8,3 +8,5 @@
 * [Meu Copilot](meu-copilot.md)
 * [Primeiro acesso](comecar/primeiro-acesso.md)
 * [Colaborador e primeira tarefa](colaborador-e-tarefa.md)
+* [Ler a Torre hoje](ler-torre-hoje.md)
+* [Ver o histórico de execuções](ver-execucoes.md)
