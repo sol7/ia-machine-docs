@@ -16,11 +16,15 @@ Na paleta do editor, em `/task/[id]/flow`. O botão do nó é **Abrir manual do 
 
 ## O que a tela mostra
 
+![Manual do nó Início aberto em Visão geral](../.gitbook/assets/inicio-01.png)
+
 O bloco no canvas e a ligação com o nó anterior e o seguinte. O manual que abre no editor, quando existe, separa visão geral, configuração, como usar, exemplos e referência. Se ainda não houver texto, a tela diz: "Ainda não há manual para este nó." Esta página não completa essas partes no lugar da tela.
 
 ## Campos
 
 Os campos de configuração ficam no manual do nó, dentro do editor. Não estão repetidos aqui.
+
+O manual aberto separa **Visão geral**, **Configuração**, **Como usar**, **Exemplos** e **Referência**. Em **Visão geral**, o título **Quando usar** aponta o contrato para **Configurações da Tarefa** e **Contrato de Entrada**.
 
 ## O que dá para fazer
 

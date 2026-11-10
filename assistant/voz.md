@@ -14,6 +14,8 @@ No primeiro acesso ou em **Perfil › Meu Copilot**. A voz clonada se apaga nest
 
 ## O que a tela mostra
 
+![Minha voz com Clonar minha voz e Escolher uma voz](.gitbook/assets/voz-01.png)
+
 A voz do Copilot serve para respostas em áudio e para a Voz ao Vivo. O passo é opcional. Dá para configurar no primeiro acesso ou depois em **Perfil › Meu Copilot**.
 
 ## Clonar a sua voz
@@ -61,6 +63,8 @@ A voz de um colaborador digital da operação é outra configuração, feita no 
 ## Campos
 
 A autorização de clonagem, a gravação e a voz pronta estão nas seções acima.
+
+A escolha fica em **Como seu Copilot vai falar**: **Clonar minha voz** ou **Escolher uma voz**. A linha do passo mostra **Não configurado**.
 
 ## O que dá para fazer
 

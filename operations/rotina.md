@@ -16,6 +16,8 @@ Quem pode abrir o colaborador no projeto. Viewer e quem está sem projeto nem ch
 
 ## O que a tela mostra
 
+![Rotina do colaborador nas abas Rotinas, Agenda, Execuções e Atividades](.gitbook/assets/rotina-01.png)
+
 Cabeçalho, rotinas na linha do tempo, tarefas avulsas e calendário.
 
 O cabeçalho identifica o colaborador que você abriu. As rotinas na linha do tempo são o que se repete. As tarefas avulsas são o trabalho pontual. O calendário junta isso no tempo. Se a dúvida é o desenho do passo a passo, ele está no editor de fluxo da tarefa, não nesta linha do tempo.
@@ -23,6 +25,8 @@ O cabeçalho identifica o colaborador que você abriu. As rotinas na linha do te
 ## Campos
 
 O que esta página descreve são esses blocos. O miolo de cada bloco, campo a campo, não está detalhado aqui.
+
+Na tela aparecem **Chat**, **Ativo**, **Rotinas**, **Agenda**, **Execuções**, **Atividades**, **Minhas Tarefas** e **Subtarefas**.
 
 ## O que dá para fazer
 
