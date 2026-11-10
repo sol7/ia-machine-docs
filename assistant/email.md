@@ -14,6 +14,8 @@ No primeiro acesso, em **Perfil › Meu Copilot**, e pelo botão **Conectar** na
 
 ## O que a tela mostra
 
+![E-mail do Copilot na parte O que chega na caixa](.gitbook/assets/email-01.png)
+
 O e-mail do Copilot lê a sua caixa e envia em seu nome só quando você pede no chat.
 
 {% hint style="info" %}
@@ -104,6 +106,8 @@ Sem e-mail conectado, a tela diz para conectar a caixa ou preencher à mão.
 ## Campos
 
 Os campos de conexão, de IMAP/SMTP e das regras de caixa estão nas seções acima.
+
+Na tela aberta, as abas são **Conta**, **O que chega na caixa** e **Leitura inicial**. Em **O que chega na caixa** estão **Guardar e-mails na minha caixa do Copilot**, **Regras, em ordem** e **Nova regra**. O estado desta conta aparece como **Envio ok** e **Recebimento desligado**.
 
 ## O que dá para fazer
 

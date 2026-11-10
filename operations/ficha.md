@@ -16,6 +16,8 @@ Quem pode abrir Colaboradores digitais. Viewer e quem está sem projeto não che
 
 ## O que a tela mostra
 
+![Edição do colaborador digital na Visão Geral](.gitbook/assets/ficha-01.png)
+
 Dois caminhos na criação. **Criar Colaborador Digital Manual** está disponível. O botão é **Começar do zero**. Esse caminho abre o Canvas vazio para este projeto.
 
 {% hint style="warning" %}
@@ -37,6 +39,8 @@ Se a seção de e-mail ou de WhatsApp estiver em uso, os campos obrigatórios da
 ## Campos
 
 Documente só o que salva. O que aparece desligado fica na linha do limite, sem passo.
+
+A edição aberta nesta figura está em **Visão Geral** e mostra **Nome do colaborador digital**, **Gênero da persona**, **Descrição / propósito**, **Setor / especialização** e **Colaborador digital ativo**.
 
 **Visão geral.** Identifica o colaborador. Avatar, nome, gênero da persona (masculino, feminino ou neutro), descrição / propósito, gestor responsável por decisões de revisão humana, setor / especialização, ambiente (desenvolvimento, homologação ou produção) e status ativo. O nome e a descrição pedem no mínimo 3 caracteres. A foto aceita PNG ou JPG. Os botões da foto são **Enviar**, **Alterar** e **Remover**. O status **Colaborador digital ativo** liga ou desliga o cadastro. Inativo permanece na lista e sai de uso.
 

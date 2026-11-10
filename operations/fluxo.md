@@ -16,6 +16,8 @@ Quem edita a tarefa do projeto.
 
 ## O que a tela mostra
 
+![Editor de fluxo com o nó Início e a paleta Designer](.gitbook/assets/fluxo-01.png)
+
 O canvas, a paleta e a ligação entre nós. O canvas é a área do desenho. A paleta é a lista de nós que dá para colocar. A ligação diz a ordem. Um nó solto, sem caminho desde o Início, não faz parte do que a tarefa executa.
 
 Cada nó tem **Abrir manual do nó**. O manual, quando existe, separa visão geral, configuração, como usar, exemplos e referência.
@@ -46,6 +48,8 @@ Nós ativos na paleta: Início, Se, Loop, Aguardar. Raciocínio, Revisão humana
 ## Campos
 
 Os controles da tabela acima. Nome, objetivo e frequência da tarefa continuam obrigatórios na criação.
+
+No editor aberto, o controle visível é **Rascunho**, ao lado de **Executar**. A paleta está em **Designer**, na aba **Visual**, com o nó **Início** no canvas. **Agêntico** aparece com a marca **Em breve**.
 
 ## O que dá para fazer
 

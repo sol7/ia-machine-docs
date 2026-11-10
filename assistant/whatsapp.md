@@ -14,6 +14,8 @@ No primeiro acesso, em **Perfil › Meu Copilot**, e pelo botão **Conectar** na
 
 ## O que a tela mostra
 
+![WhatsApp do Copilot ainda sem conexão](.gitbook/assets/whatsapp-01.png)
+
 O WhatsApp do Copilot envia mensagens pelo seu número quando você pede no chat. A conexão é a mesma do WhatsApp Web.
 
 Dá para conectar no primeiro acesso ou depois, em **Perfil › Meu Copilot** e pelo botão **Conectar** na home do Copilot.
@@ -59,6 +61,8 @@ Tarefas agendadas que dependem de WhatsApp só aparecem como disponíveis quando
 ## Campos
 
 O código lido pelo celular e os dados da conta, quando a tela os mostra, estão nas seções acima.
+
+A linha do canal mostra **Não configurado**. A tela traz **Conecte seu WhatsApp** e o botão **Configurar WhatsApp**.
 
 ## O que dá para fazer
 
