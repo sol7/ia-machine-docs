@@ -16,6 +16,10 @@ Só essa pessoa conversa com o Meu Copilot. Na criação, a tela diz que só voc
 
 ## O que a tela mostra
 
+![Caixa do Meu Copilot com uma pessoa esperando](.gitbook/assets/chat-01.png)
+
+A saudação é **Boa tarde, Felipe.** A linha diz **1 pessoa espera você. Comece por pamela.** **E-mail** está **Conectado** e **WhatsApp** está **Conectar**.
+
 A saudação usa o horário e o seu nome. O destinatário já é **Meu Copilot**. O campo pede: "Escreva sua solicitação ou aperte / para atalhos rápidos."
 
 **E-mail** e **WhatsApp** aparecem como **Conectar**. Há também **Contatos** e **+ Conectar**. O chat em texto não espera esses canais.

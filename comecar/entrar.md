@@ -16,6 +16,10 @@ Login e o seletor de projeto no menu lateral.
 
 ## O que a tela mostra
 
+![Menu lateral com o projeto BIMachine Monitoramento](.gitbook/assets/entrar-01.png)
+
+O menu mostra o projeto **BIMachine Monitoramento**, com **IA Assistant** e **IA Operations** no alto.
+
 Várias telas só carregam depois que um projeto está selecionado. No primeiro acesso a um projeto, a plataforma pede para criar o Meu Copilot antes de liberar o uso. Sem isso, o chat pessoal daquele projeto ainda não tem agente.
 
 {% hint style="warning" %}

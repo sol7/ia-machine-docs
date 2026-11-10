@@ -16,6 +16,10 @@ Quem tem projeto e não é Viewer. Sem projeto, ou com o papel Viewer, a entrada
 
 ## O que a tela mostra
 
+![Lista de colaboradores digitais](.gitbook/assets/colaboradores-01.png)
+
+O título é **Colaborador Digital**. O canto marca **3 colaboradores digitais disponíveis em sua plataforma**.
+
 Cada colaborador tem nome, descrição e um estado ativo ou inativo. A busca se chama **Buscar colaboradores digitais...**. Ela procura no nome e na descrição. Inativo continua na lista: o cadastro existe e não está em uso. O Meu Copilot pessoal não entra aqui, mesmo que você tenha acabado de criá-lo.
 
 {% hint style="success" %}

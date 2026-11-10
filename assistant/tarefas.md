@@ -20,6 +20,10 @@ Sem projeto selecionado, a tela pede: "Selecione um projeto para ver as tarefas 
 
 ## O que a tela mostra
 
+![Tarefas agendadas sem nenhuma tarefa](.gitbook/assets/tarefas-01.png)
+
+O título é **Tarefas agendadas**. O centro diz **Nenhuma tarefa agendada ainda**.
+
 Esta lista é sua. A lista **Tarefas** da operação, ligada a um colaborador digital, é outra lista.
 
 O cartão mostra a última execução e o status, ou **Ainda não executou**, e a próxima data. Uma tarefa pode estar pausada ou concluída. Pausada deixa de disparar e continua na lista. Concluída chegou ao fim da duração que você escolheu. Um modelo alterado pelo administrador leva a marca **Personalizada pelo administrador**.

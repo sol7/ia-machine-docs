@@ -20,6 +20,10 @@ Só administrador, e só com projeto. Sem projeto, Auditoria some.
 
 ## O que a tela mostra
 
+![Auditoria do projeto](.gitbook/assets/auditoria-01.png)
+
+O título é **Auditoria**. O texto diz **Acompanhe as ações registradas no projeto**.
+
 A lista das ações registradas. A **Origem** indica de onde a ação partiu. O alvo é o registro afetado. Quando esse registro já foi excluído, a linha continua e marca a exclusão, para o rastro não desaparecer junto com o cadastro.
 
 {% hint style="warning" %}

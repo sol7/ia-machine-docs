@@ -16,6 +16,10 @@ Lista viva no menu. Não é uma rota própria. “Ver todas” abre a lista comp
 
 ## O que a tela mostra
 
+![Menu do Assistant com a lista de interações](.gitbook/assets/interacoes-01.png)
+
+O menu mostra **INTERAÇÕES**, a busca **Buscar interações...** e o grupo **ÚLTIMOS 7 DIAS**.
+
 Busca, filtro por projeto e agrupamento por período. O projeto deste filtro é a pasta de conversas, não o seletor da empresa. O período agrupa o que é recente e o que ficou para trás, para você não depender só da busca.
 
 ## Campos

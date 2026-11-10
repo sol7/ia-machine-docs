@@ -16,6 +16,10 @@ Meus artefatos em `/chat/artifacts`. Compartilhado comigo em `/chat/artifacts/sh
 
 ## O que a tela mostra
 
+![Meus artefatos sem artefato criado no chat](.gitbook/assets/artefatos-01.png)
+
+O título é **Meus artefatos**. O canto marca **0 artefato**. O centro diz **Você ainda não criou artefatos no chat deste projeto.**
+
 No menu, o grupo **Artefatos** tem duas listas:
 
 * **Meus artefatos.** O que foi produzido nas conversas.

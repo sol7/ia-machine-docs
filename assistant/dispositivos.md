@@ -16,6 +16,10 @@ A pessoa dona da conta.
 
 ## O que a tela mostra
 
+![Meus Dispositivos sem aparelho registrado](.gitbook/assets/dispositivos-01.png)
+
+O título é **Meus Dispositivos**. O centro diz **Nenhum dispositivo registrado**.
+
 Estados: nenhum dispositivo, lista, erro ao carregar. A lista vazia não é erro. Erro ao carregar é a tela que não conseguiu trazer os aparelhos. A lista é o cadastro que já existe.
 
 {% hint style="info" %}

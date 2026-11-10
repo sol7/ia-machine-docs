@@ -16,6 +16,10 @@ Só administrador. Quem não administra a conta não vê a entrada, mesmo usando
 
 ## O que a tela mostra
 
+![Conectores que os agentes podem acessar](.gitbook/assets/meus-conectores-01.png)
+
+O título é **Conectores**. O texto diz **Tudo que seus agentes podem acessar, em um só lugar.**
+
 Os conectores da pessoa. A página de Operations, em `/connectors`, é o catálogo do projeto. Esta é a da pessoa.
 
 As três listas convivem de propósito:

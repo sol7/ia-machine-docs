@@ -18,6 +18,12 @@ A aba da esquerda abre em `/chat` (Meu Copilot). A da direita abre em `/central`
 
 ## O que a tela mostra
 
+![Menu com IA Assistant e IA Operations, caixa aberta](.gitbook/assets/ambientes-01.png)
+
+![Torre de Controle no período Hoje](.gitbook/assets/ambientes-02.png)
+
+A primeira figura está na caixa, com as abas **IA Assistant** e **IA Operations**. A segunda é a **Torre de Controle** em **Hoje**.
+
 O que parece repetido costuma ser outra lista:
 
 * **Dispositivos** aparecem nos dois ambientes. Registrar o aparelho uma vez vale para a conta. Não há um segundo cadastro em Operations.

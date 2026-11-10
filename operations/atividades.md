@@ -16,6 +16,10 @@ Quem acompanha o projeto.
 
 ## O que a tela mostra
 
+![Lista de Atividades dos últimos 7 dias](.gitbook/assets/atividades-01.png)
+
+O título é **Atividades**. O canto marca **57 atividades**.
+
 O trabalho realizado pelos colaboradores digitais e pelo Copilot.
 
 {% hint style="info" %}

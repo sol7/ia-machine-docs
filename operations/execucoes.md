@@ -16,6 +16,10 @@ Quem acompanha o projeto.
 
 ## O que a tela mostra
 
+![Lista de execuções](.gitbook/assets/execucoes-01.png)
+
+O título é **Execuções**. O canto marca **17 execuções**, **17 sucesso** e **0 erro**.
+
 A tela também se apresenta como **Atividade do dia**: as próximas execuções, as execuções recentes e o que está em andamento. O resumo pode dizer quantas tarefas estão agendadas para hoje, em quanto tempo vem a próxima, qual foi a última e se alguma está em execução.
 
 {% hint style="info" %}

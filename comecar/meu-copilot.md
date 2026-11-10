@@ -22,6 +22,10 @@ Configurações, aba Pessoal, Meu Copilot. No primeiro acesso a um projeto, a pl
 
 ## O que a tela mostra
 
+![Meu Copilot aberto no passo Quem sou eu](.gitbook/assets/meu-copilot-01.png)
+
+**Meu Copilot** está no passo **Quem sou eu**. O cartão diz **Copilot de D'alessandro** e **Só você conversa com ele**. **E-mail** está **Configurado**. **WhatsApp** e **Minha voz** estão **Não configurado**.
+
 Os passos são Quem sou eu, Como eu falo, Minha voz, E-mail, WhatsApp e Autorizações. Quem sou eu e Como eu falo são obrigatórios. Os outros três podem ficar **Não configurado**.
 
 {% hint style="warning" %}

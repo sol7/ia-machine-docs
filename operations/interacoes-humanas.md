@@ -16,6 +16,10 @@ Quem acompanha a operação. O link público é a página de quem responde sem e
 
 ## O que a tela mostra
 
+![Fila de interações humanas vazia no recorte](.gitbook/assets/interacoes-humanas-01.png)
+
+O título é **Human-in-the-Loop**. O centro diz **Nenhuma interação neste recorte.**
+
 Abas: todas, pendentes, respondidas, aprovadas, reprovadas, prazo estourado, canceladas. Lista ou grade.
 
 A aba recorta o estado. Pendentes é o que ainda espera alguém. As outras separam o que já teve desfecho. Lista ou grade mudam a apresentação, não o conteúdo.

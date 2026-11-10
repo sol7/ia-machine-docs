@@ -16,6 +16,10 @@ Só administrador.
 
 ## O que a tela mostra
 
+![Usuários do projeto](.gitbook/assets/usuarios-01.png)
+
+O título é **Usuários**. O canto marca **6** em **Usuários**.
+
 Os **Usuários Cadastrados** e quantos foram encontrados. A busca é **Buscar por nome ou e-mail...**. Dá para filtrar por perfil e limpar os filtros. Limpar filtros devolve a lista inteira quando a busca apertou demais o recorte.
 
 {% hint style="info" %}

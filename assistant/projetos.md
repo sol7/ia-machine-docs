@@ -16,6 +16,10 @@ A pessoa dona das conversas.
 
 ## O que a tela mostra
 
+![Projetos de conversa sem nenhum projeto](.gitbook/assets/projetos-01.png)
+
+O título é **Projetos**. O centro diz **Nenhum projeto ainda**.
+
 A lista de projetos de conversa e, ao abrir um, as conversas que estão dentro dele. O nome é o que você deu à pasta. As conversas continuam sendo suas. Colocar uma conversa nesta pasta não a publica para o restante do projeto.
 
 ## Campos

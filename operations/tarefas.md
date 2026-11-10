@@ -16,6 +16,10 @@ Quem tem o projeto aberto.
 
 ## O que a tela mostra
 
+![Lista de tarefas dos colaboradores digitais](.gitbook/assets/tarefas-01.png)
+
+O título é **Tarefas**. O canto marca **11 tarefas cadastradas**.
+
 Lista ou agenda. A lista serve para achar e filtrar. A agenda serve para ver o horário. Cada tarefa aparece como **Ativa** ou **Inativa**, com **Próxima:** e **Última:**.
 
 {% hint style="info" %}

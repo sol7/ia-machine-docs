@@ -20,6 +20,12 @@ A documentação começa nesta página. No produto, a aba da esquerda abre o Ass
 
 ## O que a tela mostra
 
+![Menu do Assistant com as duas abas e a caixa](.gitbook/assets/readme-01.png)
+
+![Torre de Controle no período Hoje](.gitbook/assets/readme-02.png)
+
+A primeira figura mostra **IA Assistant**, **IA Operations** e a caixa, com **Boa tarde, Felipe.** A segunda mostra **Torre de Controle**, período **Hoje** e **ao vivo**.
+
 Três nomes parecem a mesma coisa e não são:
 
 * **Meu Copilot** é o agente do dia a dia de uma pessoa. Só essa pessoa conversa com ele. A conversa é privada. Nem os administradores do projeto veem essa conversa.

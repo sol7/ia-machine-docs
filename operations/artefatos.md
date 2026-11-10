@@ -18,6 +18,10 @@ O link de artefato mostra o artefato compartilhado. O link de insight mostra o i
 
 ## O que a tela mostra
 
+![Artefatos do projeto](.gitbook/assets/artefatos-01.png)
+
+O título é **Artefatos**. O canto marca **15 artefatos**.
+
 Dá para buscar e ver quantos artefatos e colaboradores estão ligados. Os botões da lista são **Criar artefato** e **Enviar arquivo**. Busca, tipo e colaborador digital recortam o acervo. Enviar arquivo coloca um arquivo no acervo. Criar artefato abre o caminho de um artefato novo.
 
 {% hint style="warning" %}

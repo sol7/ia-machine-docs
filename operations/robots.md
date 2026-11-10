@@ -16,6 +16,10 @@ Só administrador.
 
 ## O que a tela mostra
 
+![Robots sem nenhum robot criado](.gitbook/assets/robots-01.png)
+
+O título é **Robots**. O centro diz **Nenhum Robot ainda.**
+
 O robot do projeto e o ponto em que o fluxo chama esse robot. Cadastrar aqui deixa o robot disponível. Colocar o nó Robot no fluxo é o que faz a tarefa chamá-lo. Uma coisa sem a outra não executa: robot sem nó não entra na tarefa, nó sem robot não tem o que chamar.
 
 ## Campos

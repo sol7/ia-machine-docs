@@ -20,6 +20,10 @@ Quem administra os dados do projeto.
 
 ## O que a tela mostra
 
+![DataTables do projeto](.gitbook/assets/datatables-01.png)
+
+O título é **DataTables**. O canto marca **1 tabelas**.
+
 O resumo mostra quantas tabelas e quantas linhas existem. Cada linha mostra o nome, a quantidade de linhas, a visibilidade, o ciclo de vida, a expiração e a última atualização. Uma tabela persistente não expira. Uma tabela com prazo mostra a janela em horas. A coluna de expiração é o que diz até quando essa janela vale.
 
 ## Campos

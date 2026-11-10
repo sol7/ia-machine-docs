@@ -16,6 +16,10 @@ Quem abre a Torre de Controle.
 
 ## O que a tela mostra
 
+![Modo TV na cena Visão geral](.gitbook/assets/modo-tv-01.png)
+
+O alto diz **Torre de Controle · Visão geral**, **ao vivo**, **Dados de hoje** e **amostra**. Embaixo está **Pausar slides**.
+
 Cenas de visão geral, equipe, ao vivo e atenção. Tema claro ou escuro. Intervalo entre cenas.
 
 A visão geral é o retrato do período. Equipe mostra os colaboradores digitais. Ao vivo é a cena do que está acontecendo. Atenção é a cena do que pede olhar. O tema só muda a apresentação, claro ou escuro. O intervalo é o tempo entre uma cena e a próxima.

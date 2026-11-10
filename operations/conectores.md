@@ -20,6 +20,10 @@ A lista só carrega com um projeto selecionado. Sem projeto, a plataforma avisa:
 
 ## O que a tela mostra
 
+![Conectores do projeto](.gitbook/assets/conectores-01.png)
+
+O título é **Conectores**. O texto diz **Tudo que seus agentes podem acessar, em um só lugar.**
+
 Há três usos, e eles não se substituem.
 
 1. **Conector do projeto.** Cadastra a ferramenta para o projeto. É esta lista. Criar, editar, autorizar e ligar ao colaborador ou à tarefa acontecem aqui.

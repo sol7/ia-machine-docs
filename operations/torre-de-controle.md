@@ -16,6 +16,10 @@ Quem tem o projeto aberto.
 
 ## O que a tela mostra
 
+![Torre de Controle no período Hoje](.gitbook/assets/torre-de-controle-01.png)
+
+O título é **Torre de Controle**, com a marca **VISÃO EXECUTIVA**. O período marcado é **Hoje**. Ao lado, **ao vivo**.
+
 Período: Hoje, Semana, Mês. Filtro por colaborador digital. Indicador ao vivo com a hora da última atualização. A hora diz quando os números foram atualizados. Se o período é Hoje e o filtro é um colaborador, os blocos falam desse recorte, não da empresa inteira em qualquer data.
 
 | Bloco | O que a tela reúne |

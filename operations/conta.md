@@ -16,6 +16,10 @@ Configurações.
 
 ## O que a tela mostra
 
+![Configurações abertas em Perfil](.gitbook/assets/conta-01.png)
+
+**Perfil** está aberto. O menu mostra **Meu Copilot**, **Conta**, **Chaves da aplicação**, **Projetos** e **Laboratório** com **Em breve**.
+
 **Pessoal.** Perfil, com nome e idioma pt-BR, en-US, es-ES e pt-PT. Meu Copilot.
 
 O idioma do perfil é a língua da pessoa: português do Brasil, inglês dos Estados Unidos, espanhol ou português de Portugal. Meu Copilot abre o mesmo cadastro do primeiro acesso, para completar voz, e-mail, WhatsApp ou o jeito de falar.

@@ -16,6 +16,10 @@ A aba da esquerda abre em `/chat`.
 
 ## O que a tela mostra
 
+![Menu do Assistant aberto na caixa](.gitbook/assets/readme-01.png)
+
+O menu mostra **Meu Copilot**, **PROJETOS**, **TAREFAS**, **INTERAÇÕES**, **ARTEFATOS** e **CONECTIVIDADE**. A caixa diz **Boa tarde, Felipe.**
+
 O menu pessoal do Assistant reúne o chat, os projetos de conversa, as tarefas da pessoa, as interações, os artefatos, os dispositivos e os conectores da pessoa.
 
 Cada entrada responde a uma pergunta diferente:

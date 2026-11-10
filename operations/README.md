@@ -18,6 +18,10 @@ A aba da direita abre em `/central`.
 
 ## O que a tela mostra
 
+![Torre de Controle no período Hoje](.gitbook/assets/readme-01.png)
+
+A tela aberta é **Torre de Controle**, com a marca **VISÃO EXECUTIVA**, o período **Hoje** e **ao vivo**.
+
 O menu reúne a Torre de Controle, a Força de trabalho, a Orquestração e a Infraestrutura.
 
 * **Torre de Controle** responde como a operação está agora.

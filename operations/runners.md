@@ -16,6 +16,10 @@ Só administrador.
 
 ## O que a tela mostra
 
+![Runners do projeto](.gitbook/assets/runners-01.png)
+
+O título é **Runners**. O canto marca **1 Runners**.
+
 Cada Runner mostra dispositivo, versão, status e último contato. Se houver versão nova, a lista marca **Atualização disponível**. O status é Online ou Offline. Último contato diz quando a instalação falou com o projeto. Offline com último contato antigo é uma máquina que já esteve ligada e parou. A lista vazia é outra situação: ainda não há vínculo.
 
 {% hint style="warning" %}

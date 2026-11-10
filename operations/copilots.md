@@ -16,6 +16,10 @@ Quem tem projeto. Some sem projeto.
 
 ## O que a tela mostra
 
+![Copilots ativos do projeto](.gitbook/assets/copilots-01.png)
+
+O título é **Copilots**. O texto diz **Os Copilots ativos do projeto**. O canto marca **6 ativos**.
+
 Busca e filtro de canal: todos, e-mail, WhatsApp, nenhum. A ficha mostra canais, atividades e logs.
 
 O filtro responde se aquele Copilot do projeto tem canal, e qual. **Nenhum** mostra quem está sem e-mail e sem WhatsApp. A ficha não é o assistente de primeiro acesso. Ela mostra os canais já ligados, o que ele fez e o registro disso.
