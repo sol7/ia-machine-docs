@@ -3,6 +3,7 @@
 ## IA Assistant
 
 * [IA Assistant](README.md)
+* [Minha Mesa](minha-mesa.md)
 * [Meu Copilot no chat](chat.md)
 * [Projetos](projetos.md)
 * [Tarefas do Copilot](tarefas.md)
